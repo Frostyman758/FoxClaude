@@ -1,0 +1,24 @@
+<!--
+title: NavxSwitchBounderDataBody
+permalink: /Entity_Reference/?/Fox/Navx/NavxSwitchBounderDataBody/
+stub: true
+tags: [Fox, Navx, Reference]
+-->
+
+## Definition
+> Project: Fox\
+> Module: [Navx](/Entity_Reference/?/Fox/Navx)\
+> Submodule: TODO: Submodule\
+> Inheritance: Fox.Navx.NavxBounderDataBody → NavxSwitchBounderDataBody
+
+```cpp
+NavxSwitchBounderDataBody : Fox.Navx.NavxBounderDataBody 
+```
+
+TODO: Description
+
+
+
+
+
+

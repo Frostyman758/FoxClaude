@@ -1,0 +1,24 @@
+<!--
+title: GeoModuleConditionBody
+permalink: /Entity_Reference/?/Fox/Geo/GeoModuleConditionBody/
+stub: true
+tags: [Fox, Geo, Reference]
+-->
+
+## Definition
+> Project: Fox\
+> Module: [Geo](/Entity_Reference/?/Fox/Geo)\
+> Submodule: TODO: Submodule\
+> Inheritance: Fox.Geo.GeoTrapConditionBody → GeoModuleConditionBody
+
+```cpp
+GeoModuleConditionBody : Fox.Geo.GeoTrapConditionBody 
+```
+
+TODO: Description
+
+
+
+
+
+

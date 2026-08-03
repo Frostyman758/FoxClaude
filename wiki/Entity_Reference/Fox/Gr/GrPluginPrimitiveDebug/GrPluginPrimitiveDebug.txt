@@ -1,0 +1,24 @@
+<!--
+title: GrPluginPrimitiveDebug
+permalink: /Entity_Reference/?/Fox/Gr/GrPluginPrimitiveDebug/
+stub: true
+tags: [Fox, Gr, Reference]
+-->
+
+## Definition
+> Project: Fox\
+> Module: [Gr](/Entity_Reference/?/Fox/Gr)\
+> Submodule: TODO: Submodule\
+> Inheritance: Fox.Gr.GrPluginPrimitiveUnfiltered → GrPluginPrimitiveDebug
+
+```cpp
+GrPluginPrimitiveDebug : Fox.Gr.GrPluginPrimitiveUnfiltered 
+```
+
+TODO: Description
+
+
+
+
+
+

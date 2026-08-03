@@ -1,0 +1,24 @@
+<!--
+title: TppBuddy2BlockControllerData
+permalink: /Entity_Reference/?/Tpp/GameCore/TppBuddy2BlockControllerData/
+stub: true
+tags: [Tpp, GameCore, Reference]
+-->
+
+## Definition
+> Project: Tpp\
+> Module: [GameCore](/Entity_Reference/?/Tpp/GameCore)\
+> Submodule: TODO: Submodule\
+> Inheritance: Fox.Core.Data → TppBuddy2BlockControllerData
+
+```cpp
+TppBuddy2BlockControllerData : Fox.Core.Data 
+```
+
+TODO: Description
+
+
+
+
+
+

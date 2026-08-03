@@ -1,0 +1,27 @@
+<!--
+title: EntityPtrStringMapEntity
+permalink: /Entity_Reference/?/Fox/Core/EntityPtrStringMapEntity/
+stub: true
+tags: [Fox, Core, Reference]
+-->
+
+## Definition
+> Project: Fox\
+> Module: [Core](/Entity_Reference/?/Fox/Core)\
+> Submodule: TODO: Submodule\
+> Inheritance: Fox.Core.Entity → EntityPtrStringMapEntity
+
+```cpp
+EntityPtrStringMapEntity : Fox.Core.Entity 
+```
+
+TODO: Description
+
+## Properties
+
+| | |
+|-|-|
+| [stringMap](#stringmap) | TODO: Description |
+
+
+

@@ -1,0 +1,27 @@
+<!--
+title: SimHitGroupControl
+permalink: /Entity_Reference/?/Fox/Sim/SimHitGroupControl/
+stub: true
+tags: [Fox, Sim, Reference]
+-->
+
+## Definition
+> Project: Fox\
+> Module: [Sim](/Entity_Reference/?/Fox/Sim)\
+> Submodule: TODO: Submodule\
+> Inheritance: Fox.Sim.SimControlElement → SimHitGroupControl
+
+```cpp
+SimHitGroupControl : Fox.Sim.SimControlElement 
+```
+
+TODO: Description
+
+## Properties
+
+| | |
+|-|-|
+| [controlParam](#controlparam) | TODO: Description |
+
+
+

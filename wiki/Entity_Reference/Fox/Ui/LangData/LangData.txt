@@ -1,0 +1,27 @@
+<!--
+title: LangData
+permalink: /Entity_Reference/?/Fox/Ui/LangData/
+stub: true
+tags: [Fox, Ui, Reference]
+-->
+
+## Definition
+> Project: Fox\
+> Module: [Ui](/Entity_Reference/?/Fox/Ui)\
+> Submodule: TODO: Submodule\
+> Inheritance: Fox.Core.Data → LangData
+
+```cpp
+LangData : Fox.Core.Data 
+```
+
+TODO: Description
+
+## Properties
+
+| | |
+|-|-|
+| [langFile](#langfile) | TODO: Description |
+
+
+

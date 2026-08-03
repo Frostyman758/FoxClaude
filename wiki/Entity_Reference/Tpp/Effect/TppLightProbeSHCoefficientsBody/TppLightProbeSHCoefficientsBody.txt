@@ -1,0 +1,24 @@
+<!--
+title: TppLightProbeSHCoefficientsBody
+permalink: /Entity_Reference/?/Tpp/Effect/TppLightProbeSHCoefficientsBody/
+stub: true
+tags: [Tpp, Effect, Reference]
+-->
+
+## Definition
+> Project: Tpp\
+> Module: [Effect](/Entity_Reference/?/Tpp/Effect)\
+> Submodule: TODO: Submodule\
+> Inheritance: Fox.Core.DataBody → TppLightProbeSHCoefficientsBody
+
+```cpp
+TppLightProbeSHCoefficientsBody : Fox.Core.DataBody 
+```
+
+TODO: Description
+
+
+
+
+
+

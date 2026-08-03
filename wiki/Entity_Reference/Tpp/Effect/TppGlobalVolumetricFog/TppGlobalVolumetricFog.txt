@@ -1,0 +1,27 @@
+<!--
+title: TppGlobalVolumetricFog
+permalink: /Entity_Reference/?/Tpp/Effect/TppGlobalVolumetricFog/
+stub: true
+tags: [Tpp, Effect, Reference]
+-->
+
+## Definition
+> Project: Tpp\
+> Module: [Effect](/Entity_Reference/?/Tpp/Effect)\
+> Submodule: TODO: Submodule\
+> Inheritance: Fox.Core.Data → TppGlobalVolumetricFog
+
+```cpp
+TppGlobalVolumetricFog : Fox.Core.Data 
+```
+
+TODO: Description
+
+## Properties
+
+| | |
+|-|-|
+| [param](#param) | TODO: Description |
+
+
+

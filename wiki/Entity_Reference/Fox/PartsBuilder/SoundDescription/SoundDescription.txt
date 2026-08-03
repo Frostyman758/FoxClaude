@@ -1,0 +1,27 @@
+<!--
+title: SoundDescription
+permalink: /Entity_Reference/?/Fox/PartsBuilder/SoundDescription/
+stub: true
+tags: [Fox, PartsBuilder, Reference]
+-->
+
+## Definition
+> Project: Fox\
+> Module: [PartsBuilder](/Entity_Reference/?/Fox/PartsBuilder)\
+> Submodule: TODO: Submodule\
+> Inheritance: Fox.PartsBuilder.PartDescription → SoundDescription
+
+```cpp
+SoundDescription : Fox.PartsBuilder.PartDescription 
+```
+
+TODO: Description
+
+## Properties
+
+| | |
+|-|-|
+| [soundFile](#soundfile) | TODO: Description |
+
+
+

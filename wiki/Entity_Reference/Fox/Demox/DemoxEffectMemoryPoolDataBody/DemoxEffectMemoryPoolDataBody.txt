@@ -1,0 +1,24 @@
+<!--
+title: DemoxEffectMemoryPoolDataBody
+permalink: /Entity_Reference/?/Fox/Demox/DemoxEffectMemoryPoolDataBody/
+stub: true
+tags: [Fox, Demox, Reference]
+-->
+
+## Definition
+> Project: Fox\
+> Module: [Demox](/Entity_Reference/?/Fox/Demox)\
+> Submodule: TODO: Submodule\
+> Inheritance: Fox.Core.DataBody → DemoxEffectMemoryPoolDataBody
+
+```cpp
+DemoxEffectMemoryPoolDataBody : Fox.Core.DataBody 
+```
+
+TODO: Description
+
+
+
+
+
+

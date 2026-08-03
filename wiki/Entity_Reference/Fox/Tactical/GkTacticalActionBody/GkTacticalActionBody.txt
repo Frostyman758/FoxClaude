@@ -1,0 +1,27 @@
+<!--
+title: GkTacticalActionBody
+permalink: /Entity_Reference/?/Fox/Tactical/GkTacticalActionBody/
+stub: true
+tags: [Fox, Tactical, Reference]
+-->
+
+## Definition
+> Project: Fox\
+> Module: [Tactical](/Entity_Reference/?/Fox/Tactical)\
+> Submodule: TODO: Submodule\
+> Inheritance: Fox.Core.TransformDataBody → GkTacticalActionBody
+
+```cpp
+GkTacticalActionBody : Fox.Core.TransformDataBody 
+```
+
+TODO: Description
+
+## Properties
+
+| | |
+|-|-|
+| [enable](#enable) | TODO: Description |
+
+
+

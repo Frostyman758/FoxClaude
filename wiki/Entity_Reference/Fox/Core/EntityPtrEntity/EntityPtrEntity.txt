@@ -1,0 +1,27 @@
+<!--
+title: EntityPtrEntity
+permalink: /Entity_Reference/?/Fox/Core/EntityPtrEntity/
+stub: true
+tags: [Fox, Core, Reference]
+-->
+
+## Definition
+> Project: Fox\
+> Module: [Core](/Entity_Reference/?/Fox/Core)\
+> Submodule: TODO: Submodule\
+> Inheritance: Fox.Core.PropertyValueEntity → EntityPtrEntity
+
+```cpp
+EntityPtrEntity : Fox.Core.PropertyValueEntity 
+```
+
+TODO: Description
+
+## Properties
+
+| | |
+|-|-|
+| [value](#value) | TODO: Description |
+
+
+

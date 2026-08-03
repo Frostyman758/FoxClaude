@@ -1,0 +1,24 @@
+<!--
+title: SubtitlesGeneratorBody
+permalink: /Entity_Reference/?/Fox/GameKit/SubtitlesGeneratorBody/
+stub: true
+tags: [Fox, GameKit, Reference]
+-->
+
+## Definition
+> Project: Fox\
+> Module: [GameKit](/Entity_Reference/?/Fox/GameKit)\
+> Submodule: TODO: Submodule\
+> Inheritance: Fox.Ui.UiGraphEntryBody → SubtitlesGeneratorBody
+
+```cpp
+SubtitlesGeneratorBody : Fox.Ui.UiGraphEntryBody 
+```
+
+TODO: Description
+
+
+
+
+
+

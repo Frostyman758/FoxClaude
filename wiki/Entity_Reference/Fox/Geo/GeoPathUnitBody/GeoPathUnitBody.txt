@@ -1,0 +1,27 @@
+<!--
+title: GeoPathUnitBody
+permalink: /Entity_Reference/?/Fox/Geo/GeoPathUnitBody/
+stub: true
+tags: [Fox, Geo, Reference]
+-->
+
+## Definition
+> Project: Fox\
+> Module: [Geo](/Entity_Reference/?/Fox/Geo)\
+> Submodule: TODO: Submodule\
+> Inheritance: Fox.Core.TransformDataBody → GeoPathUnitBody
+
+```cpp
+GeoPathUnitBody : Fox.Core.TransformDataBody 
+```
+
+TODO: Description
+
+## Properties
+
+| | |
+|-|-|
+| [isGeomActive](#isgeomactive) | TODO: Description |
+
+
+

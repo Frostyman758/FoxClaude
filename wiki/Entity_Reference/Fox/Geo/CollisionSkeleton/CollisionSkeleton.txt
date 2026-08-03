@@ -1,0 +1,27 @@
+<!--
+title: CollisionSkeleton
+permalink: /Entity_Reference/?/Fox/Geo/CollisionSkeleton/
+stub: true
+tags: [Fox, Geo, Reference]
+-->
+
+## Definition
+> Project: Fox\
+> Module: [Geo](/Entity_Reference/?/Fox/Geo)\
+> Submodule: TODO: Submodule\
+> Inheritance: Fox.Geo.CollisionObject → CollisionSkeleton
+
+```cpp
+CollisionSkeleton : Fox.Geo.CollisionObject 
+```
+
+TODO: Description
+
+## Properties
+
+| | |
+|-|-|
+| [gsklFilePtr](#gsklfileptr) | TODO: Description |
+
+
+

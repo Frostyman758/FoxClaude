@@ -1,0 +1,24 @@
+<!--
+title: NavxWorldGenerateParameterBody
+permalink: /Entity_Reference/?/Fox/Navx/NavxWorldGenerateParameterBody/
+stub: true
+tags: [Fox, Navx, Reference]
+-->
+
+## Definition
+> Project: Fox\
+> Module: [Navx](/Entity_Reference/?/Fox/Navx)\
+> Submodule: TODO: Submodule\
+> Inheritance: Fox.Core.TransformDataBody → NavxWorldGenerateParameterBody
+
+```cpp
+NavxWorldGenerateParameterBody : Fox.Core.TransformDataBody 
+```
+
+TODO: Description
+
+
+
+
+
+

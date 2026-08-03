@@ -1,0 +1,30 @@
+<!--
+title: GeoTriggerTrap
+permalink: /Entity_Reference/?/Fox/Geo/GeoTriggerTrap/
+stub: true
+tags: [Fox, Geo, Reference]
+-->
+
+## Definition
+> Project: Fox\
+> Module: [Geo](/Entity_Reference/?/Fox/Geo)\
+> Submodule: TODO: Submodule\
+> Inheritance: Fox.Core.TransformData → GeoTriggerTrap
+
+```cpp
+GeoTriggerTrap : Fox.Core.TransformData 
+```
+
+TODO: Description
+
+## Properties
+
+| | |
+|-|-|
+| [enable](#enable) | TODO: Description |
+| [stateFlag](#stateflag) | TODO: Description |
+| [uniqueId](#uniqueid) | TODO: Description |
+| [groupTags](#grouptags) | TODO: Description |
+
+
+

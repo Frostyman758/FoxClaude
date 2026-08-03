@@ -1,0 +1,28 @@
+<!--
+title: Matrix3StringMapPropertyDifference
+permalink: /Entity_Reference/?/Fox/Core/Matrix3StringMapPropertyDifference/
+stub: true
+tags: [Fox, Core, Reference]
+-->
+
+## Definition
+> Project: Fox\
+> Module: [Core](/Entity_Reference/?/Fox/Core)\
+> Submodule: TODO: Submodule\
+> Inheritance: Fox.Core.PropertyDifference → Matrix3StringMapPropertyDifference
+
+```cpp
+Matrix3StringMapPropertyDifference : Fox.Core.PropertyDifference 
+```
+
+TODO: Description
+
+## Properties
+
+| | |
+|-|-|
+| [originalValues](#originalvalues) | TODO: Description |
+| [values](#values) | TODO: Description |
+
+
+

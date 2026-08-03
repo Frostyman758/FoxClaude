@@ -1,0 +1,27 @@
+<!--
+title: TppVolgin2forVrLocatorParameter
+permalink: /Entity_Reference/?/Tpp/GameCore/TppVolgin2forVrLocatorParameter/
+stub: true
+tags: [Tpp, GameCore, Reference]
+-->
+
+## Definition
+> Project: Tpp\
+> Module: [GameCore](/Entity_Reference/?/Tpp/GameCore)\
+> Submodule: TODO: Submodule\
+> Inheritance: Fox.Core.DataElement → TppVolgin2forVrLocatorParameter
+
+```cpp
+TppVolgin2forVrLocatorParameter : Fox.Core.DataElement 
+```
+
+TODO: Description
+
+## Properties
+
+| | |
+|-|-|
+| [identifier](#identifier) | TODO: Description |
+
+
+

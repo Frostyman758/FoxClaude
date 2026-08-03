@@ -1,0 +1,27 @@
+<!--
+title: GeoxGeomSetLoader
+permalink: /Entity_Reference/?/Fox/Geox/GeoxGeomSetLoader/
+stub: true
+tags: [Fox, Geox, Reference]
+-->
+
+## Definition
+> Project: Fox\
+> Module: [Geox](/Entity_Reference/?/Fox/Geox)\
+> Submodule: TODO: Submodule\
+> Inheritance: Fox.Core.TransformData → GeoxGeomSetLoader
+
+```cpp
+GeoxGeomSetLoader : Fox.Core.TransformData 
+```
+
+TODO: Description
+
+## Properties
+
+| | |
+|-|-|
+| [geomSetFile](#geomsetfile) | TODO: Description |
+
+
+

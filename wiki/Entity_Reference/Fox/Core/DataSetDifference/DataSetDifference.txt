@@ -1,0 +1,27 @@
+<!--
+title: DataSetDifference
+permalink: /Entity_Reference/?/Fox/Core/DataSetDifference/
+stub: true
+tags: [Fox, Core, Reference]
+-->
+
+## Definition
+> Project: Fox\
+> Module: [Core](/Entity_Reference/?/Fox/Core)\
+> Submodule: TODO: Submodule\
+> Inheritance: Fox.Core.Entity → DataSetDifference
+
+```cpp
+DataSetDifference : Fox.Core.Entity 
+```
+
+TODO: Description
+
+## Properties
+
+| | |
+|-|-|
+| [dataList](#datalist) | TODO: Description |
+
+
+

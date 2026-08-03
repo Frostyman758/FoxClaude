@@ -1,0 +1,27 @@
+<!--
+title: TppSimpleMissionBlockControllerData
+permalink: /Entity_Reference/?/Tpp/GameCore/TppSimpleMissionBlockControllerData/
+stub: true
+tags: [Tpp, GameCore, Reference]
+-->
+
+## Definition
+> Project: Tpp\
+> Module: [GameCore](/Entity_Reference/?/Tpp/GameCore)\
+> Submodule: TODO: Submodule\
+> Inheritance: Fox.Core.Data → TppSimpleMissionBlockControllerData
+
+```cpp
+TppSimpleMissionBlockControllerData : Fox.Core.Data 
+```
+
+TODO: Description
+
+## Properties
+
+| | |
+|-|-|
+| [blockSizeInByte](#blocksizeinbyte) | TODO: Description |
+
+
+

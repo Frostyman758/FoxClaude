@@ -1,0 +1,27 @@
+<!--
+title: SphereShapeBody
+permalink: /Entity_Reference/?/Fox/Core/SphereShapeBody/
+stub: true
+tags: [Fox, Core, Reference]
+-->
+
+## Definition
+> Project: Fox\
+> Module: [Core](/Entity_Reference/?/Fox/Core)\
+> Submodule: TODO: Submodule\
+> Inheritance: Fox.Core.ShapeDataBody → SphereShapeBody
+
+```cpp
+SphereShapeBody : Fox.Core.ShapeDataBody 
+```
+
+TODO: Description
+
+## Properties
+
+| | |
+|-|-|
+| [shape_p](#shape-p) | TODO: Description |
+
+
+

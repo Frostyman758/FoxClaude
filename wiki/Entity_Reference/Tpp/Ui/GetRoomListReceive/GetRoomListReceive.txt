@@ -1,0 +1,24 @@
+<!--
+title: GetRoomListReceive
+permalink: /Entity_Reference/?/Tpp/Ui/GetRoomListReceive/
+stub: true
+tags: [Tpp, Ui, Reference]
+-->
+
+## Definition
+> Project: Tpp\
+> Module: [Ui](/Entity_Reference/?/Tpp/Ui)\
+> Submodule: TODO: Submodule\
+> Inheritance: Fox.Core.Entity → GetRoomListReceive
+
+```cpp
+GetRoomListReceive : Fox.Core.Entity 
+```
+
+TODO: Description
+
+
+
+
+
+

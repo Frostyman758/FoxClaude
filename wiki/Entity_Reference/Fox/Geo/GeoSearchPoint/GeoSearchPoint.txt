@@ -1,0 +1,27 @@
+<!--
+title: GeoSearchPoint
+permalink: /Entity_Reference/?/Fox/Geo/GeoSearchPoint/
+stub: true
+tags: [Fox, Geo, Reference]
+-->
+
+## Definition
+> Project: Fox\
+> Module: [Geo](/Entity_Reference/?/Fox/Geo)\
+> Submodule: TODO: Submodule\
+> Inheritance: Fox.Geo.GeoSearchObject → GeoSearchPoint
+
+```cpp
+GeoSearchPoint : Fox.Geo.GeoSearchObject 
+```
+
+TODO: Description
+
+## Properties
+
+| | |
+|-|-|
+| [position](#position) | TODO: Description |
+
+
+

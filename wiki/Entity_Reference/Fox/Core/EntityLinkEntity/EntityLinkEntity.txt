@@ -1,0 +1,27 @@
+<!--
+title: EntityLinkEntity
+permalink: /Entity_Reference/?/Fox/Core/EntityLinkEntity/
+stub: true
+tags: [Fox, Core, Reference]
+-->
+
+## Definition
+> Project: Fox\
+> Module: [Core](/Entity_Reference/?/Fox/Core)\
+> Submodule: TODO: Submodule\
+> Inheritance: Fox.Core.PropertyValueEntity → EntityLinkEntity
+
+```cpp
+EntityLinkEntity : Fox.Core.PropertyValueEntity 
+```
+
+TODO: Description
+
+## Properties
+
+| | |
+|-|-|
+| [value](#value) | TODO: Description |
+
+
+

@@ -1,0 +1,29 @@
+<!--
+title: TppLensFlareShapeCircle
+permalink: /Entity_Reference/?/Tpp/Effect/TppLensFlareShapeCircle/
+stub: true
+tags: [Tpp, Effect, Reference]
+-->
+
+## Definition
+> Project: Tpp\
+> Module: [Effect](/Entity_Reference/?/Tpp/Effect)\
+> Submodule: TODO: Submodule\
+> Inheritance: Tpp.Effect.TppLensFlareShape → TppLensFlareShapeCircle
+
+```cpp
+TppLensFlareShapeCircle : Tpp.Effect.TppLensFlareShape 
+```
+
+TODO: Description
+
+## Properties
+
+| | |
+|-|-|
+| [outerScale](#outerscale) | TODO: Description |
+| [innerScale](#innerscale) | TODO: Description |
+| [divideNum](#dividenum) | TODO: Description |
+
+
+

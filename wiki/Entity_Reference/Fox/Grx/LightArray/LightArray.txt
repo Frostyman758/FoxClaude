@@ -1,0 +1,27 @@
+<!--
+title: LightArray
+permalink: /Entity_Reference/?/Fox/Grx/LightArray/
+stub: true
+tags: [Fox, Grx, Reference]
+-->
+
+## Definition
+> Project: Fox\
+> Module: [Grx](/Entity_Reference/?/Fox/Grx)\
+> Submodule: TODO: Submodule\
+> Inheritance: Fox.Core.TransformData → LightArray
+
+```cpp
+LightArray : Fox.Core.TransformData 
+```
+
+TODO: Description
+
+## Properties
+
+| | |
+|-|-|
+| [lightArrayFile](#lightarrayfile) | TODO: Description |
+
+
+

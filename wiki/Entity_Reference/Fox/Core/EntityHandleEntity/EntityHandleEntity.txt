@@ -1,0 +1,27 @@
+<!--
+title: EntityHandleEntity
+permalink: /Entity_Reference/?/Fox/Core/EntityHandleEntity/
+stub: true
+tags: [Fox, Core, Reference]
+-->
+
+## Definition
+> Project: Fox\
+> Module: [Core](/Entity_Reference/?/Fox/Core)\
+> Submodule: TODO: Submodule\
+> Inheritance: Fox.Core.PropertyValueEntity → EntityHandleEntity
+
+```cpp
+EntityHandleEntity : Fox.Core.PropertyValueEntity 
+```
+
+TODO: Description
+
+## Properties
+
+| | |
+|-|-|
+| [value](#value) | TODO: Description |
+
+
+

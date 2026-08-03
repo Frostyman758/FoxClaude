@@ -1,0 +1,24 @@
+<!--
+title: FxVfxBinaryFile
+permalink: /Entity_Reference/?/Fox/Fx/FxVfxBinaryFile/
+stub: true
+tags: [Fox, Fx, Reference]
+-->
+
+## Definition
+> Project: Fox\
+> Module: [Fx](/Entity_Reference/?/Fox/Fx)\
+> Submodule: TODO: Submodule\
+> Inheritance: Fox.Core.RawFile → FxVfxBinaryFile
+
+```cpp
+FxVfxBinaryFile : Fox.Core.RawFile 
+```
+
+TODO: Description
+
+
+
+
+
+

@@ -1,0 +1,24 @@
+<!--
+title: NavxNavBlockBody
+permalink: /Entity_Reference/?/Fox/Navx/NavxNavBlockBody/
+stub: true
+tags: [Fox, Navx, Reference]
+-->
+
+## Definition
+> Project: Fox\
+> Module: [Navx](/Entity_Reference/?/Fox/Navx)\
+> Submodule: TODO: Submodule\
+> Inheritance: Fox.Core.DataBody → NavxNavBlockBody
+
+```cpp
+NavxNavBlockBody : Fox.Core.DataBody 
+```
+
+TODO: Description
+
+
+
+
+
+

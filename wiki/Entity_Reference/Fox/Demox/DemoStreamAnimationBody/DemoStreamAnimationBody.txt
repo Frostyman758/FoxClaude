@@ -1,0 +1,24 @@
+<!--
+title: DemoStreamAnimationBody
+permalink: /Entity_Reference/?/Fox/Demox/DemoStreamAnimationBody/
+stub: true
+tags: [Fox, Demox, Reference]
+-->
+
+## Definition
+> Project: Fox\
+> Module: [Demox](/Entity_Reference/?/Fox/Demox)\
+> Submodule: TODO: Submodule\
+> Inheritance: Fox.Core.DataBody → DemoStreamAnimationBody
+
+```cpp
+DemoStreamAnimationBody : Fox.Core.DataBody 
+```
+
+TODO: Description
+
+
+
+
+
+

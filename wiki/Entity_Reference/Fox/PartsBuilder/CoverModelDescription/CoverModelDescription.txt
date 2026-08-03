@@ -1,0 +1,24 @@
+<!--
+title: CoverModelDescription
+permalink: /Entity_Reference/?/Fox/PartsBuilder/CoverModelDescription/
+stub: true
+tags: [Fox, PartsBuilder, Reference]
+-->
+
+## Definition
+> Project: Fox\
+> Module: [PartsBuilder](/Entity_Reference/?/Fox/PartsBuilder)\
+> Submodule: TODO: Submodule\
+> Inheritance: Fox.PartsBuilder.ModelDescription → CoverModelDescription
+
+```cpp
+CoverModelDescription : Fox.PartsBuilder.ModelDescription 
+```
+
+TODO: Description
+
+
+
+
+
+

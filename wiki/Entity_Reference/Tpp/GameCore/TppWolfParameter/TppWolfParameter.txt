@@ -1,0 +1,30 @@
+<!--
+title: TppWolfParameter
+permalink: /Entity_Reference/?/Tpp/GameCore/TppWolfParameter/
+stub: true
+tags: [Tpp, GameCore, Reference]
+-->
+
+## Definition
+> Project: Tpp\
+> Module: [GameCore](/Entity_Reference/?/Tpp/GameCore)\
+> Submodule: TODO: Submodule\
+> Inheritance: Fox.Core.DataElement → TppWolfParameter
+
+```cpp
+TppWolfParameter : Fox.Core.DataElement 
+```
+
+TODO: Description
+
+## Properties
+
+| | |
+|-|-|
+| [partsFile](#partsfile) | TODO: Description |
+| [mtarFile](#mtarfile) | TODO: Description |
+| [mogFile](#mogfile) | TODO: Description |
+| [fovaFiles](#fovafiles) | TODO: Description |
+
+
+

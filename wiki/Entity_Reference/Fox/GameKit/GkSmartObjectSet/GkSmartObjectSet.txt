@@ -1,0 +1,27 @@
+<!--
+title: GkSmartObjectSet
+permalink: /Entity_Reference/?/Fox/GameKit/GkSmartObjectSet/
+stub: true
+tags: [Fox, GameKit, Reference]
+-->
+
+## Definition
+> Project: Fox\
+> Module: [GameKit](/Entity_Reference/?/Fox/GameKit)\
+> Submodule: TODO: Submodule\
+> Inheritance: Fox.Core.Data → GkSmartObjectSet
+
+```cpp
+GkSmartObjectSet : Fox.Core.Data 
+```
+
+TODO: Description
+
+## Properties
+
+| | |
+|-|-|
+| [objects](#objects) | TODO: Description |
+
+
+

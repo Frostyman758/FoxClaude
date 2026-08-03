@@ -1,0 +1,24 @@
+<!--
+title: DemoParameter
+permalink: /Entity_Reference/?/Fox/Demo/DemoParameter/
+stub: true
+tags: [Fox, Demo, Reference]
+-->
+
+## Definition
+> Project: Fox\
+> Module: [Demo](/Entity_Reference/?/Fox/Demo)\
+> Submodule: TODO: Submodule\
+> Inheritance: Fox.Core.DataElement → DemoParameter
+
+```cpp
+DemoParameter : Fox.Core.DataElement 
+```
+
+TODO: Description
+
+
+
+
+
+

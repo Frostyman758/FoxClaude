@@ -1,0 +1,24 @@
+<!--
+title: GeoTrapFile
+permalink: /Entity_Reference/?/Fox/Geo/GeoTrapFile/
+stub: true
+tags: [Fox, Geo, Reference]
+-->
+
+## Definition
+> Project: Fox\
+> Module: [Geo](/Entity_Reference/?/Fox/Geo)\
+> Submodule: TODO: Submodule\
+> Inheritance: Fox.Core.RawFile → GeoTrapFile
+
+```cpp
+GeoTrapFile : Fox.Core.RawFile 
+```
+
+TODO: Description
+
+
+
+
+
+

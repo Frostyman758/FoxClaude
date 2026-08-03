@@ -1,0 +1,24 @@
+<!--
+title: GkSightCheckParam
+permalink: /Entity_Reference/?/Fox/GameKit/GkSightCheckParam/
+stub: true
+tags: [Fox, GameKit, Reference]
+-->
+
+## Definition
+> Project: Fox\
+> Module: [GameKit](/Entity_Reference/?/Fox/GameKit)\
+> Submodule: TODO: Submodule\
+> Inheritance: Fox.Core.Entity → GkSightCheckParam
+
+```cpp
+GkSightCheckParam : Fox.Core.Entity 
+```
+
+TODO: Description
+
+
+
+
+
+

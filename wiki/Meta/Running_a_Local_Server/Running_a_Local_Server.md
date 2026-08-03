@@ -1,0 +1,105 @@
+---
+title: Running a Local Server
+permalink: /Meta/Running_a_Local_Server/
+tags: [Meta, Guides]
+---
+
+In this guide we'll cover how to get a local version of your wiki fork running in your browser, so you can check how changes will appear exactly as they'll appear on the original wiki site.
+
+> This is intended for users who want the most accurate preview and control over the final output.
+
+![Showing how changes are auto-detected and appear live in the browser. The build time has been trimmed in the GIF for brevity.](/assets/Meta/Running_a_Local_Server/Live changes example.gif)
+
+## Prerequisites
+
+- This guide assumes you've followed the [Using Github Desktop](/Meta/Creating_Editing_Pages/Using_Github_Desktop) guide, so you have a fork of the wiki locally.
+- This guide uses Windows, though you can achieve this under Linux, too.
+
+{% include spoiler-start title="Info for Linux users" %}
+
+Official Jekyll and Ruby install instructions can be found for Ubuntu [here](https://jekyllrb.com/docs/installation/ubuntu/) (other distro info [here](https://jekyllrb.com/docs/installation/other-linux/)).
+
+If using Linux run the bash (`.sh`) versions of the `install` and `run` scripts mentioned in the steps below.
+
+Since Github Desktop isn't available for Linux you'll have to use an alternative git front-end or just the git CLI, to make the initial fork clone and (optionally but recommended) manage commits.
+
+> You can alternatively run Linux in a virtual machine on a Windows host and manage files/git on the Windows side, by cloning the wiki to a directory on the host and sharing it with the VM.
+
+> **The build process uses Powershell scripts** for generating the search index and recent changes files, to populate the search results and any section's sidebar items (like can be seen in this Meta section).<br/>
+<br/>
+Powershell is available in Linux packages but if you don't want to install it just keep in mind those aspects won't behave as expected.
+{:.note}
+
+{% include spoiler-end %}
+{:.important}
+
+---
+
+## Installing Jekyll and Ruby
+
+> **Important:** The latest Ruby version (v4) has breaking changes with building the site locally. Use Ruby v3 instead for the time being. The steps below have been adjusted to link to the v3.4 installer.
+{:.important}
+
+1. Go to the Ruby installer page [here](https://rubyinstaller.org/downloads/archives/). Select the *Ruby+Devkit 3.4.8-1 (x64)* version ([direct download link](https://github.com/oneclick/rubyinstaller2/releases/download/RubyInstaller-3.4.8-1/rubyinstaller-devkit-3.4.8-1-x64.exe)).
+2. Run the installer and click through the defaults. It consumes around 900MB of space.
+    > If you get a Windows SmartScreen message blocking the installer click the underlined *More info* text then click the *Run anyway* button.
+3. At the end of the installer you'll be prompted by default to install the dev components. Confirm and a CMD window will appear. Press `Enter` key to continue when asked.
+    - After it states `succeeded` you'll be prompted a second time to press `Enter`. This just exits the CMD window since it's already complete.
+
+---
+
+## Installing the wiki dependencies
+
+1. Now open the local version of your wiki fork (if you're unclear where that is open Github Desktop then click *Show in Explorer*).
+2. Double-click the `install.bat` script in the root directory of your fork. This installs the required Jekyll dependencies for the local wiki fork and only has to be done once. It will take a moment before progress appears. The window will auto close when finished.
+    > It's easier to distinguish file types by having file extensions visible in Windows File Explorer.
+    {:.tip}
+
+---
+
+## Running the local server
+
+Now we're ready to run the server. Any time you'd like to run it just do the following.
+
+1. In the root directory of your fork double-click the `run.bat` script. This will build the wiki then run a web server locally on Windows that can be accessed via a browser.
+    > The server is only accessible on your system, not over the internet.
+2. The script will prompt for whether you'd like to use incremental or full builds for the current session. Press `1` or `Enter` key for the incremental build type (faster).  
+    > The alternative full build option will rebuild the whole wiki any time a change is detected. This is useful if you've changed some permalink metadata and need the search results and sidebar [sections](/Meta/Creating_Editing_Pages/Metadata_Organization/Creating_a_Section) to sync up with the changes.
+3. Minimize the CMD window and launch a browser.
+4. Enter `localhost:4000` in the addressbar to visit the local wiki running on your system!
+
+> You'll notice a new `_site` directory in the root of the wiki directory appear. This directory only contains the compiled versions of pages/files for the local server and is ignored by Github Desktop when detecting file changes, so avoid editing any of the files within.
+
+### Closing the local server
+
+You can stop the local server running at any time by closing the CMD window you minimized, or by focusing the CMD window and pressing `Ctrl+C` (the 'cancel' command) twice to terminate the process.
+
+---
+
+## Making changes
+
+You can make changes to the wiki as you would normally, by editing/adding/deleting files on your local fork via Windows Explorer.
+
+Any changes will be auto detected by Jekyll incrementally and the parts of the wiki that have changed will be re-built. The changes can be viewed in a browser.
+
+You can then submit your changes back to the original wiki as per the [Github Desktop](/Meta/Creating_Editing_Pages/Using_Github_Desktop) guide.
+
+![The build time has been trimmed in the GIF for brevity](/assets/Meta/Running_a_Local_Server/Live changes example.gif)
+
+> It takes a moment to rebuild for each change so there'll be a delay between the change(s) and when they'll appear. The changes should automatically appear in the browser without requiring a refresh, once they've been built and are ready.
+{:.note}
+
+---
+
+## Troubleshooting
+
+- If you updated your fork of the repo to sync to the upstream version and aren't seeing the updated changes try hard reloading your browser cache (typically with the hotkey `Ctrl+Shift+R` or in some browsers holding `Shift` and clicking the reload button).
+
+- If you've made a change to something that affects the search results or a section sidebar tree a rebuild of the search index files is necessary, if you need to see those changes (eg: if you've deleted a page or changed its tag/title and wondering why it's not updating in the search/sidebar).
+    
+    - This requires **fully** exiting the local server 'run' script and relaunching it and selecting option 2 (full build) when prompted. After it's built once you can exit the 'run' script again and go back to using the incremental build (option 1).
+        
+    > The reason this is needed is because those particular build scripts only get triggered on a fresh, complete build (via a Jekyll hook in the Ruby plugin) and not on just a full build per se.\
+    \
+    Ie: even if you're using option 2 of the run script only the first build will run the scripts but not on subsequently detected changes even though Jekyll is still rebuilding the rest of the site.
+    {:.note}

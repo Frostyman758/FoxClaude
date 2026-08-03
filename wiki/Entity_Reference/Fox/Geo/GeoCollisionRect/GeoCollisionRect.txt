@@ -1,0 +1,24 @@
+<!--
+title: GeoCollisionRect
+permalink: /Entity_Reference/?/Fox/Geo/GeoCollisionRect/
+stub: true
+tags: [Fox, Geo, Reference]
+-->
+
+## Definition
+> Project: Fox\
+> Module: [Geo](/Entity_Reference/?/Fox/Geo)\
+> Submodule: TODO: Submodule\
+> Inheritance: Fox.Geo.GeoCollisionPrimitiveBase → GeoCollisionRect
+
+```cpp
+GeoCollisionRect : Fox.Geo.GeoCollisionPrimitiveBase 
+```
+
+TODO: Description
+
+
+
+
+
+

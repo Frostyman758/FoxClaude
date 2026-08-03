@@ -1,0 +1,31 @@
+<!--
+title: GeoxCollisionPrimitive
+permalink: /Entity_Reference/?/Fox/Geox/GeoxCollisionPrimitive/
+stub: true
+tags: [Fox, Geox, Reference]
+-->
+
+## Definition
+> Project: Fox\
+> Module: [Geox](/Entity_Reference/?/Fox/Geox)\
+> Submodule: TODO: Submodule\
+> Inheritance: Fox.Core.TransformData → GeoxCollisionPrimitive
+
+```cpp
+GeoxCollisionPrimitive : Fox.Core.TransformData 
+```
+
+TODO: Description
+
+## Properties
+
+| | |
+|-|-|
+| [collisionCategory](#collisioncategory) | TODO: Description |
+| [primitiveType](#primitivetype) | TODO: Description |
+| [groupTag](#grouptag) | TODO: Description |
+| [collisionMaterial](#collisionmaterial) | TODO: Description |
+| [collisionAttributeNames](#collisionattributenames) | TODO: Description |
+
+
+

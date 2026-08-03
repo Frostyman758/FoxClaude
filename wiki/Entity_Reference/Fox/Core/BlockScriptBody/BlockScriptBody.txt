@@ -1,0 +1,24 @@
+<!--
+title: BlockScriptBody
+permalink: /Entity_Reference/?/Fox/Core/BlockScriptBody/
+stub: true
+tags: [Fox, Core, Reference]
+-->
+
+## Definition
+> Project: Fox\
+> Module: [Core](/Entity_Reference/?/Fox/Core)\
+> Submodule: TODO: Submodule\
+> Inheritance: Fox.Core.DataBody → BlockScriptBody
+
+```cpp
+BlockScriptBody : Fox.Core.DataBody 
+```
+
+TODO: Description
+
+
+
+
+
+

@@ -1,0 +1,28 @@
+<!--
+title: MbdvcBootData
+permalink: /Entity_Reference/?/Tpp/Ui/MbdvcBootData/
+stub: true
+tags: [Tpp, Ui, Reference]
+-->
+
+## Definition
+> Project: Tpp\
+> Module: [Ui](/Entity_Reference/?/Tpp/Ui)\
+> Submodule: TODO: Submodule\
+> Inheritance: Fox.Core.Data → MbdvcBootData
+
+```cpp
+MbdvcBootData : Fox.Core.Data 
+```
+
+TODO: Description
+
+## Properties
+
+| | |
+|-|-|
+| [uigFile](#uigfile) | TODO: Description |
+| [rawFile](#rawfile) | TODO: Description |
+
+
+

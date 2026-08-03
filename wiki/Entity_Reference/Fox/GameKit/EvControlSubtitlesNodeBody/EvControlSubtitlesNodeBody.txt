@@ -1,0 +1,24 @@
+<!--
+title: EvControlSubtitlesNodeBody
+permalink: /Entity_Reference/?/Fox/GameKit/EvControlSubtitlesNodeBody/
+stub: true
+tags: [Fox, GameKit, Reference]
+-->
+
+## Definition
+> Project: Fox\
+> Module: [GameKit](/Entity_Reference/?/Fox/GameKit)\
+> Submodule: TODO: Submodule\
+> Inheritance: Fox.Ui.UiEventNodeBody → EvControlSubtitlesNodeBody
+
+```cpp
+EvControlSubtitlesNodeBody : Fox.Ui.UiEventNodeBody 
+```
+
+TODO: Description
+
+
+
+
+
+

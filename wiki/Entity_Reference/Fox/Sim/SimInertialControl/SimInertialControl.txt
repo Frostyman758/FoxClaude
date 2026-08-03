@@ -1,0 +1,28 @@
+<!--
+title: SimInertialControl
+permalink: /Entity_Reference/?/Fox/Sim/SimInertialControl/
+stub: true
+tags: [Fox, Sim, Reference]
+-->
+
+## Definition
+> Project: Fox\
+> Module: [Sim](/Entity_Reference/?/Fox/Sim)\
+> Submodule: TODO: Submodule\
+> Inheritance: Fox.Sim.SimControlElement → SimInertialControl
+
+```cpp
+SimInertialControl : Fox.Sim.SimControlElement 
+```
+
+TODO: Description
+
+## Properties
+
+| | |
+|-|-|
+| [controlParam](#controlparam) | TODO: Description |
+| [inertialCoefficient](#inertialcoefficient) | TODO: Description |
+
+
+

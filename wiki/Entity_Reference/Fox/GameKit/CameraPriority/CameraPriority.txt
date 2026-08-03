@@ -1,0 +1,24 @@
+<!--
+title: CameraPriority
+permalink: /Entity_Reference/?/Fox/GameKit/CameraPriority/
+stub: true
+tags: [Fox, GameKit, Reference]
+-->
+
+## Definition
+> Project: Fox\
+> Module: [GameKit](/Entity_Reference/?/Fox/GameKit)\
+> Submodule: TODO: Submodule\
+> Inheritance: Fox.Core.Entity → CameraPriority
+
+```cpp
+CameraPriority : Fox.Core.Entity 
+```
+
+TODO: Description
+
+
+
+
+
+

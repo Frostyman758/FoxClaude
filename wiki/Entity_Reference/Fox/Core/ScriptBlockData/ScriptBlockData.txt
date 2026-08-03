@@ -1,0 +1,29 @@
+<!--
+title: ScriptBlockData
+permalink: /Entity_Reference/?/Fox/Core/ScriptBlockData/
+stub: true
+tags: [Fox, Core, Reference]
+-->
+
+## Definition
+> Project: Fox\
+> Module: [Core](/Entity_Reference/?/Fox/Core)\
+> Submodule: TODO: Submodule\
+> Inheritance: Fox.Core.Data → ScriptBlockData
+
+```cpp
+ScriptBlockData : Fox.Core.Data 
+```
+
+TODO: Description
+
+## Properties
+
+| | |
+|-|-|
+| [enabled](#enabled) | TODO: Description |
+| [sizeInBytes](#sizeinbytes) | TODO: Description |
+| [prerequisites](#prerequisites) | TODO: Description |
+
+
+

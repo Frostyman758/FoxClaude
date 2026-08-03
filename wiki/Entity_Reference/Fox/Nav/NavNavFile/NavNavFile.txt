@@ -1,0 +1,24 @@
+<!--
+title: NavNavFile
+permalink: /Entity_Reference/?/Fox/Nav/NavNavFile/
+stub: true
+tags: [Fox, Nav, Reference]
+-->
+
+## Definition
+> Project: Fox\
+> Module: [Nav](/Entity_Reference/?/Fox/Nav)\
+> Submodule: TODO: Submodule\
+> Inheritance: Fox.Core.RawFile → NavNavFile
+
+```cpp
+NavNavFile : Fox.Core.RawFile 
+```
+
+TODO: Description
+
+
+
+
+
+

@@ -1,0 +1,24 @@
+<!--
+title: Pad2
+permalink: /Entity_Reference/?/Fox/GameKit/Pad2/
+stub: true
+tags: [Fox, GameKit, Reference]
+-->
+
+## Definition
+> Project: Fox\
+> Module: [GameKit](/Entity_Reference/?/Fox/GameKit)\
+> Submodule: TODO: Submodule\
+> Inheritance: Fox.Core.Entity → Pad2
+
+```cpp
+Pad2 : Fox.Core.Entity 
+```
+
+TODO: Description
+
+
+
+
+
+

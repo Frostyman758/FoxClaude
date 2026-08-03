@@ -1,0 +1,24 @@
+<!--
+title: SyncFactory2
+permalink: /Entity_Reference/?/Fox/Nt/SyncFactory2/
+stub: true
+tags: [Fox, Nt, Reference]
+-->
+
+## Definition
+> Project: Fox\
+> Module: [Nt](/Entity_Reference/?/Fox/Nt)\
+> Submodule: TODO: Submodule\
+> Inheritance: Fox.Nt.SyncInstance → SyncFactory2
+
+```cpp
+SyncFactory2 : Fox.Nt.SyncInstance 
+```
+
+TODO: Description
+
+
+
+
+
+

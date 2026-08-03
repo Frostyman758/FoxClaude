@@ -1,0 +1,31 @@
+<!--
+title: TerrainBlock
+permalink: /Entity_Reference/?/Fox/GameKit/TerrainBlock/
+stub: true
+tags: [Fox, GameKit, Reference]
+-->
+
+## Definition
+> Project: Fox\
+> Module: [GameKit](/Entity_Reference/?/Fox/GameKit)\
+> Submodule: TODO: Submodule\
+> Inheritance: Fox.Core.Data → TerrainBlock
+
+```cpp
+TerrainBlock : Fox.Core.Data 
+```
+
+TODO: Description
+
+## Properties
+
+| | |
+|-|-|
+| [id](#id) | TODO: Description |
+| [terrainName](#terrainname) | TODO: Description |
+| [filePtr](#fileptr) | TODO: Description |
+| [filePath](#filepath) | TODO: Description |
+| [pos](#pos) | TODO: Description |
+
+
+

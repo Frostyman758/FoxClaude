@@ -1,0 +1,27 @@
+<!--
+title: ColorEntity
+permalink: /Entity_Reference/?/Fox/Core/ColorEntity/
+stub: true
+tags: [Fox, Core, Reference]
+-->
+
+## Definition
+> Project: Fox\
+> Module: [Core](/Entity_Reference/?/Fox/Core)\
+> Submodule: TODO: Submodule\
+> Inheritance: Fox.Core.PropertyValueEntity → ColorEntity
+
+```cpp
+ColorEntity : Fox.Core.PropertyValueEntity 
+```
+
+TODO: Description
+
+## Properties
+
+| | |
+|-|-|
+| [value](#value) | TODO: Description |
+
+
+

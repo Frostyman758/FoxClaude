@@ -1,0 +1,24 @@
+<!--
+title: MogFile
+permalink: /Entity_Reference/?/Fox/MotionGraph/MogFile/
+stub: true
+tags: [Fox, MotionGraph, Reference]
+-->
+
+## Definition
+> Project: Fox\
+> Module: [MotionGraph](/Entity_Reference/?/Fox/MotionGraph)\
+> Submodule: TODO: Submodule\
+> Inheritance: Fox.Core.RawFile → MogFile
+
+```cpp
+MogFile : Fox.Core.RawFile 
+```
+
+TODO: Description
+
+
+
+
+
+

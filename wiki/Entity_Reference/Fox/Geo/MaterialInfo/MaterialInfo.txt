@@ -1,0 +1,24 @@
+<!--
+title: MaterialInfo
+permalink: /Entity_Reference/?/Fox/Geo/MaterialInfo/
+stub: true
+tags: [Fox, Geo, Reference]
+-->
+
+## Definition
+> Project: Fox\
+> Module: [Geo](/Entity_Reference/?/Fox/Geo)\
+> Submodule: TODO: Submodule\
+> Inheritance: Fox.Geo.MaterialInfoBase → MaterialInfo
+
+```cpp
+MaterialInfo : Fox.Geo.MaterialInfoBase 
+```
+
+TODO: Description
+
+
+
+
+
+

@@ -1,0 +1,24 @@
+<!--
+title: GrPluginScreenCapture
+permalink: /Entity_Reference/?/Fox/Gr/GrPluginScreenCapture/
+stub: true
+tags: [Fox, Gr, Reference]
+-->
+
+## Definition
+> Project: Fox\
+> Module: [Gr](/Entity_Reference/?/Fox/Gr)\
+> Submodule: TODO: Submodule\
+> Inheritance: Fox.Gr.GrRenderPlugin → GrPluginScreenCapture
+
+```cpp
+GrPluginScreenCapture : Fox.Gr.GrRenderPlugin 
+```
+
+TODO: Description
+
+
+
+
+
+

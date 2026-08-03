@@ -1,0 +1,24 @@
+<!--
+title: PeriodicActor
+permalink: /Entity_Reference/?/Fox/Grx/PeriodicActor/
+stub: true
+tags: [Fox, Grx, Reference]
+-->
+
+## Definition
+> Project: Fox\
+> Module: [Grx](/Entity_Reference/?/Fox/Grx)\
+> Submodule: TODO: Submodule\
+> Inheritance: Fox.Core.Actor → PeriodicActor
+
+```cpp
+PeriodicActor : Fox.Core.Actor 
+```
+
+TODO: Description
+
+
+
+
+
+

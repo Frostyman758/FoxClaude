@@ -1,0 +1,24 @@
+<!--
+title: TppCyprusBlockControl
+permalink: /Entity_Reference/?/Tpp/GameKit/TppCyprusBlockControl/
+stub: true
+tags: [Tpp, GameKit, Reference]
+-->
+
+## Definition
+> Project: Tpp\
+> Module: [GameKit](/Entity_Reference/?/Tpp/GameKit)\
+> Submodule: TODO: Submodule\
+> Inheritance: Fox.Core.Entity → TppCyprusBlockControl
+
+```cpp
+TppCyprusBlockControl : Fox.Core.Entity 
+```
+
+TODO: Description
+
+
+
+
+
+

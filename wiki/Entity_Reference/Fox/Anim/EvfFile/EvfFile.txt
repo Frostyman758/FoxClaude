@@ -1,0 +1,24 @@
+<!--
+title: EvfFile
+permalink: /Entity_Reference/?/Fox/Anim/EvfFile/
+stub: true
+tags: [Fox, Anim, Reference]
+-->
+
+## Definition
+> Project: Fox\
+> Module: [Anim](/Entity_Reference/?/Fox/Anim)\
+> Submodule: TODO: Submodule\
+> Inheritance: Fox.Core.DataSetFile2 → EvfFile
+
+```cpp
+EvfFile : Fox.Core.DataSetFile2 
+```
+
+TODO: Description
+
+
+
+
+
+

@@ -1,0 +1,28 @@
+<!--
+title: GkDefenseTargetData
+permalink: /Entity_Reference/?/Fox/GameKit/GkDefenseTargetData/
+stub: true
+tags: [Fox, GameKit, Reference]
+-->
+
+## Definition
+> Project: Fox\
+> Module: [GameKit](/Entity_Reference/?/Fox/GameKit)\
+> Submodule: TODO: Submodule\
+> Inheritance: Fox.GameKit.GkTargetData → GkDefenseTargetData
+
+```cpp
+GkDefenseTargetData : Fox.GameKit.GkTargetData 
+```
+
+TODO: Description
+
+## Properties
+
+| | |
+|-|-|
+| [name](#name) | TODO: Description |
+| [skeletonName](#skeletonname) | TODO: Description |
+
+
+

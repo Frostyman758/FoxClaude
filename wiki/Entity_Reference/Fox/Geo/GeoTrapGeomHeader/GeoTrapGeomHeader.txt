@@ -1,0 +1,24 @@
+<!--
+title: GeoTrapGeomHeader
+permalink: /Entity_Reference/?/Fox/Geo/GeoTrapGeomHeader/
+stub: true
+tags: [Fox, Geo, Reference]
+-->
+
+## Definition
+> Project: Fox\
+> Module: [Geo](/Entity_Reference/?/Fox/Geo)\
+> Submodule: TODO: Submodule\
+> Inheritance: Fox.Core.Entity → GeoTrapGeomHeader
+
+```cpp
+GeoTrapGeomHeader : Fox.Core.Entity 
+```
+
+TODO: Description
+
+
+
+
+
+

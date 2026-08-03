@@ -1,0 +1,29 @@
+<!--
+title: GeoTrapConditionBody
+permalink: /Entity_Reference/?/Fox/Geo/GeoTrapConditionBody/
+stub: true
+tags: [Fox, Geo, Reference]
+-->
+
+## Definition
+> Project: Fox\
+> Module: [Geo](/Entity_Reference/?/Fox/Geo)\
+> Submodule: TODO: Submodule\
+> Inheritance: Fox.Core.TransformDataBody → GeoTrapConditionBody
+
+```cpp
+GeoTrapConditionBody : Fox.Core.TransformDataBody 
+```
+
+TODO: Description
+
+## Properties
+
+| | |
+|-|-|
+| [trapCategory](#trapcategory) | TODO: Description |
+| [trapPriority](#trappriority) | TODO: Description |
+| [isDone](#isdone) | TODO: Description |
+
+
+

@@ -1,0 +1,24 @@
+<!--
+title: TppPauseMenu
+permalink: /Entity_Reference/?/Tpp/System/TppPauseMenu/
+stub: true
+tags: [Tpp, System, Reference]
+-->
+
+## Definition
+> Project: Tpp\
+> Module: [System](/Entity_Reference/?/Tpp/System)\
+> Submodule: TODO: Submodule\
+> Inheritance: Fox.Core.Actor → TppPauseMenu
+
+```cpp
+TppPauseMenu : Fox.Core.Actor 
+```
+
+TODO: Description
+
+
+
+
+
+

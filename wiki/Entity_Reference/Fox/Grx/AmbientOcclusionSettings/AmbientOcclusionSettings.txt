@@ -1,0 +1,30 @@
+<!--
+title: AmbientOcclusionSettings
+permalink: /Entity_Reference/?/Fox/Grx/AmbientOcclusionSettings/
+stub: true
+tags: [Fox, Grx, Reference]
+-->
+
+## Definition
+> Project: Fox\
+> Module: [Grx](/Entity_Reference/?/Fox/Grx)\
+> Submodule: TODO: Submodule\
+> Inheritance: Fox.Core.Data → AmbientOcclusionSettings
+
+```cpp
+AmbientOcclusionSettings : Fox.Core.Data 
+```
+
+TODO: Description
+
+## Properties
+
+| | |
+|-|-|
+| [method](#method) | TODO: Description |
+| [attachment](#attachment) | TODO: Description |
+| [lineSSAOParameters](#linessaoparameters) | TODO: Description |
+| [areaSSAOParameters](#areassaoparameters) | TODO: Description |
+
+
+

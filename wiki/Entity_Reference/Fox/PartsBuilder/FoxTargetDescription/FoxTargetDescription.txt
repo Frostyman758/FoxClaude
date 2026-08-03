@@ -1,0 +1,27 @@
+<!--
+title: FoxTargetDescription
+permalink: /Entity_Reference/?/Fox/PartsBuilder/FoxTargetDescription/
+stub: true
+tags: [Fox, PartsBuilder, Reference]
+-->
+
+## Definition
+> Project: Fox\
+> Module: [PartsBuilder](/Entity_Reference/?/Fox/PartsBuilder)\
+> Submodule: TODO: Submodule\
+> Inheritance: Fox.PartsBuilder.PartDescription → FoxTargetDescription
+
+```cpp
+FoxTargetDescription : Fox.PartsBuilder.PartDescription 
+```
+
+TODO: Description
+
+## Properties
+
+| | |
+|-|-|
+| [targetFile](#targetfile) | TODO: Description |
+
+
+

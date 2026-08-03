@@ -1,0 +1,27 @@
+<!--
+title: EntityHandleListEntity
+permalink: /Entity_Reference/?/Fox/Core/EntityHandleListEntity/
+stub: true
+tags: [Fox, Core, Reference]
+-->
+
+## Definition
+> Project: Fox\
+> Module: [Core](/Entity_Reference/?/Fox/Core)\
+> Submodule: TODO: Submodule\
+> Inheritance: Fox.Core.Entity → EntityHandleListEntity
+
+```cpp
+EntityHandleListEntity : Fox.Core.Entity 
+```
+
+TODO: Description
+
+## Properties
+
+| | |
+|-|-|
+| [list](#list) | TODO: Description |
+
+
+

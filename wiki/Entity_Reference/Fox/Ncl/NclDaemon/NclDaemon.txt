@@ -1,0 +1,28 @@
+<!--
+title: NclDaemon
+permalink: /Entity_Reference/?/Fox/Ncl/NclDaemon/
+stub: true
+tags: [Fox, Ncl, Reference]
+-->
+
+## Definition
+> Project: Fox\
+> Module: [Ncl](/Entity_Reference/?/Fox/Ncl)\
+> Submodule: TODO: Submodule\
+> Inheritance: Fox.Core.Entity → NclDaemon
+
+```cpp
+NclDaemon : Fox.Core.Entity 
+```
+
+TODO: Description
+
+## Properties
+
+| | |
+|-|-|
+| [exIp](#exip) | TODO: Description |
+| [inIp](#inip) | TODO: Description |
+
+
+

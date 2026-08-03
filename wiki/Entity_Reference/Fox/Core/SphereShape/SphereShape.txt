@@ -1,0 +1,27 @@
+<!--
+title: SphereShape
+permalink: /Entity_Reference/?/Fox/Core/SphereShape/
+stub: true
+tags: [Fox, Core, Reference]
+-->
+
+## Definition
+> Project: Fox\
+> Module: [Core](/Entity_Reference/?/Fox/Core)\
+> Submodule: TODO: Submodule\
+> Inheritance: Fox.Core.ShapeData → SphereShape
+
+```cpp
+SphereShape : Fox.Core.ShapeData 
+```
+
+TODO: Description
+
+## Properties
+
+| | |
+|-|-|
+| [radius](#radius) | TODO: Description |
+
+
+

@@ -1,0 +1,55 @@
+---
+title: "I want to mod:"
+permalink: /I_want_to_mod/
+---
+
+  - ## Missions
+    - [Mission objectives](/Mission_Objectives)
+    - [Creating a basic custom route](/Creating_a_basic_custom_route/)
+    - [Create a custom location](/Create_a_Custom_Map)
+    - [Using UAVs in Side-Ops](/Using_UAVs_in_Side_Ops)
+  - ## Models
+    - [Export and modify models](/Using_FMDL_Studio_with_Blender/)
+    - [Swap model parts](/Mesh_Mashup)
+    - [Custom weapon models](/Custom_weapons)
+    - [Hair](/Hair_Materials)
+  - ## Textures
+    - [Retexturing models](/Retexturing_the_Bionic_Arm/)
+    - [Emblem](/Emblem/)
+  - ## Weapons
+    - [Weapon part combinations](/Chimera_Weapon_System/)
+    - [Iron Sight adjustments, fire-rate, draw and reload speeds](/Iron_Sight_adjustments,_fire-rate,_draw_and_reload_speeds/)
+    - [Enable NPC Weapons](/Enabling_CS_Weapons/)
+    - [Change damage](/Damage_Tables/)
+    - [Custom models](/Custom_weapons)
+    - [Development requirements](/EquipDevelopSetting/)
+  - ## Sound
+    - [How to add custom sounds](/How_to_add_custom_sounds)
+    - [How To Find & Change Audio Files](/How_To_Find_&_Change_Audio_Files)
+    - [How to replace sortie prep music in less than five minutes](/How_to_replace_sortie_prep_music_in_less_than_five_minutes)
+    - [Creating a Custom Sound Bank](/Creating_a_Custom_Sound_Bank)
+  - ## Radio
+    - Need a guide!
+  - ## Animations
+    - Need a guide!
+  - ## UI
+    - Need a guide!
+  - ## Language / Text
+    - [Changing and adding localized text](/Lang_Files)
+    - [Localization](/Localization)
+  - ## Rendering
+    - [Attaching graphics debuggers](/Attaching_graphics_debuggers/)
+    - [Color processing](/FILTERLUT_Texture_Guide/)
+    - [Textures](/Textures)
+    - [NVG filter](/NVG_Filter)
+  - ## Cutscenes
+    - Need a guide!
+  - ## Effects
+    - [Spawning a custom effect using FoxKit](/FoxKit-_TppPrimRiverModel_TppWaterBounding_TppTextureLoader_and_FxLocatorData)
+  - ## Fonts
+    - Need a guide!
+  - ## Vehicles
+    - Need a guide!
+  - ## Exe
+    - [Ghidra](/Ghidra_tips)
+{:.index}

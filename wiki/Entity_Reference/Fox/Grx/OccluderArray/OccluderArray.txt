@@ -1,0 +1,27 @@
+<!--
+title: OccluderArray
+permalink: /Entity_Reference/?/Fox/Grx/OccluderArray/
+stub: true
+tags: [Fox, Grx, Reference]
+-->
+
+## Definition
+> Project: Fox\
+> Module: [Grx](/Entity_Reference/?/Fox/Grx)\
+> Submodule: TODO: Submodule\
+> Inheritance: Fox.Core.TransformData → OccluderArray
+
+```cpp
+OccluderArray : Fox.Core.TransformData 
+```
+
+TODO: Description
+
+## Properties
+
+| | |
+|-|-|
+| [occluderArrayFile](#occluderarrayfile) | TODO: Description |
+
+
+

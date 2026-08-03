@@ -1,0 +1,24 @@
+<!--
+title: TppOffenseTargetData
+permalink: /Entity_Reference/?/Tpp/System/TppOffenseTargetData/
+stub: true
+tags: [Tpp, System, Reference]
+-->
+
+## Definition
+> Project: Tpp\
+> Module: [System](/Entity_Reference/?/Tpp/System)\
+> Submodule: TODO: Submodule\
+> Inheritance: Fox.GameKit.GkTargetData → TppOffenseTargetData
+
+```cpp
+TppOffenseTargetData : Fox.GameKit.GkTargetData 
+```
+
+TODO: Description
+
+
+
+
+
+

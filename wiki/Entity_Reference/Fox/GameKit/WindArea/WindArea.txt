@@ -1,0 +1,27 @@
+<!--
+title: WindArea
+permalink: /Entity_Reference/?/Fox/GameKit/WindArea/
+stub: true
+tags: [Fox, GameKit, Reference]
+-->
+
+## Definition
+> Project: Fox\
+> Module: [GameKit](/Entity_Reference/?/Fox/GameKit)\
+> Submodule: TODO: Submodule\
+> Inheritance: Fox.GameKit.EnvironmentArea → WindArea
+
+```cpp
+WindArea : Fox.GameKit.EnvironmentArea 
+```
+
+TODO: Description
+
+## Properties
+
+| | |
+|-|-|
+| [influenceOfGlobal](#influenceofglobal) | TODO: Description |
+
+
+

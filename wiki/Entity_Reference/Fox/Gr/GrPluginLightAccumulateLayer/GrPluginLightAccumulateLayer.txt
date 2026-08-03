@@ -1,0 +1,24 @@
+<!--
+title: GrPluginLightAccumulateLayer
+permalink: /Entity_Reference/?/Fox/Gr/GrPluginLightAccumulateLayer/
+stub: true
+tags: [Fox, Gr, Reference]
+-->
+
+## Definition
+> Project: Fox\
+> Module: [Gr](/Entity_Reference/?/Fox/Gr)\
+> Submodule: TODO: Submodule\
+> Inheritance: Fox.Gr.GrRenderPlugin → GrPluginLightAccumulateLayer
+
+```cpp
+GrPluginLightAccumulateLayer : Fox.Gr.GrRenderPlugin 
+```
+
+TODO: Description
+
+
+
+
+
+

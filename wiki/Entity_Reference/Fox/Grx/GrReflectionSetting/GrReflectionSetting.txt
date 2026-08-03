@@ -1,0 +1,27 @@
+<!--
+title: GrReflectionSetting
+permalink: /Entity_Reference/?/Fox/Grx/GrReflectionSetting/
+stub: true
+tags: [Fox, Grx, Reference]
+-->
+
+## Definition
+> Project: Fox\
+> Module: [Grx](/Entity_Reference/?/Fox/Grx)\
+> Submodule: TODO: Submodule\
+> Inheritance: Fox.Core.Data → GrReflectionSetting
+
+```cpp
+GrReflectionSetting : Fox.Core.Data 
+```
+
+TODO: Description
+
+## Properties
+
+| | |
+|-|-|
+| [reflectionTexturePath](#reflectiontexturepath) | TODO: Description |
+
+
+

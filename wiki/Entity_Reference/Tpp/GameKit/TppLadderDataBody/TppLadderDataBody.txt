@@ -1,0 +1,24 @@
+<!--
+title: TppLadderDataBody
+permalink: /Entity_Reference/?/Tpp/GameKit/TppLadderDataBody/
+stub: true
+tags: [Tpp, GameKit, Reference]
+-->
+
+## Definition
+> Project: Tpp\
+> Module: [GameKit](/Entity_Reference/?/Tpp/GameKit)\
+> Submodule: TODO: Submodule\
+> Inheritance: Fox.Core.TransformDataBody → TppLadderDataBody
+
+```cpp
+TppLadderDataBody : Fox.Core.TransformDataBody 
+```
+
+TODO: Description
+
+
+
+
+
+

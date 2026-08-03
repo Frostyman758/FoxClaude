@@ -1,0 +1,27 @@
+<!--
+title: Game
+permalink: /Entity_Reference/?/Fox/Core/Game/
+stub: true
+tags: [Fox, Core, Reference]
+-->
+
+## Definition
+> Project: Fox\
+> Module: [Core](/Entity_Reference/?/Fox/Core)\
+> Submodule: TODO: Submodule\
+> Inheritance: Fox.Core.Actor → Game
+
+```cpp
+Game : Fox.Core.Actor 
+```
+
+TODO: Description
+
+## Properties
+
+| | |
+|-|-|
+| [bucketCollector](#bucketcollector) | TODO: Description |
+
+
+

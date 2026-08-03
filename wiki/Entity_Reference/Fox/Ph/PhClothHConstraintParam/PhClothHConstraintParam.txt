@@ -1,0 +1,28 @@
+<!--
+title: PhClothHConstraintParam
+permalink: /Entity_Reference/?/Fox/Ph/PhClothHConstraintParam/
+stub: true
+tags: [Fox, Ph, Reference]
+-->
+
+## Definition
+> Project: Fox\
+> Module: [Ph](/Entity_Reference/?/Fox/Ph)\
+> Submodule: TODO: Submodule\
+> Inheritance: Fox.Ph.PhConstraintParam → PhClothHConstraintParam
+
+```cpp
+PhClothHConstraintParam : Fox.Ph.PhConstraintParam 
+```
+
+TODO: Description
+
+## Properties
+
+| | |
+|-|-|
+| [expansionRatio](#expansionratio) | TODO: Description |
+| [contractionRatio](#contractionratio) | TODO: Description |
+
+
+

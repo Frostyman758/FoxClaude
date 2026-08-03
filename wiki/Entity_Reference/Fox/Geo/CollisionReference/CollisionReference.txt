@@ -1,0 +1,24 @@
+<!--
+title: CollisionReference
+permalink: /Entity_Reference/?/Fox/Geo/CollisionReference/
+stub: true
+tags: [Fox, Geo, Reference]
+-->
+
+## Definition
+> Project: Fox\
+> Module: [Geo](/Entity_Reference/?/Fox/Geo)\
+> Submodule: TODO: Submodule\
+> Inheritance: Fox.Geo.CollisionObject → CollisionReference
+
+```cpp
+CollisionReference : Fox.Geo.CollisionObject 
+```
+
+TODO: Description
+
+
+
+
+
+

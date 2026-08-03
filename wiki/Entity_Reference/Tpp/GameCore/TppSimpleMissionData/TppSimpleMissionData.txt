@@ -1,0 +1,28 @@
+<!--
+title: TppSimpleMissionData
+permalink: /Entity_Reference/?/Tpp/GameCore/TppSimpleMissionData/
+stub: true
+tags: [Tpp, GameCore, Reference]
+-->
+
+## Definition
+> Project: Tpp\
+> Module: [GameCore](/Entity_Reference/?/Tpp/GameCore)\
+> Submodule: TODO: Submodule\
+> Inheritance: Fox.Core.Data → TppSimpleMissionData
+
+```cpp
+TppSimpleMissionData : Fox.Core.Data 
+```
+
+TODO: Description
+
+## Properties
+
+| | |
+|-|-|
+| [script](#script) | TODO: Description |
+| [subScripts](#subscripts) | TODO: Description |
+
+
+

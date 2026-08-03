@@ -1,0 +1,24 @@
+<!--
+title: UiCommonDataManager
+permalink: /Entity_Reference/?/Tpp/Ui/UiCommonDataManager/
+stub: true
+tags: [Tpp, Ui, Reference]
+-->
+
+## Definition
+> Project: Tpp\
+> Module: [Ui](/Entity_Reference/?/Tpp/Ui)\
+> Submodule: TODO: Submodule\
+> Inheritance: Fox.Core.Entity → UiCommonDataManager
+
+```cpp
+UiCommonDataManager : Fox.Core.Entity 
+```
+
+TODO: Description
+
+
+
+
+
+

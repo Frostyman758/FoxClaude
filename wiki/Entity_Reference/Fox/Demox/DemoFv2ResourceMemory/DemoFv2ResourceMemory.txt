@@ -1,0 +1,27 @@
+<!--
+title: DemoFv2ResourceMemory
+permalink: /Entity_Reference/?/Fox/Demox/DemoFv2ResourceMemory/
+stub: true
+tags: [Fox, Demox, Reference]
+-->
+
+## Definition
+> Project: Fox\
+> Module: [Demox](/Entity_Reference/?/Fox/Demox)\
+> Submodule: TODO: Submodule\
+> Inheritance: Fox.Core.DataElement → DemoFv2ResourceMemory
+
+```cpp
+DemoFv2ResourceMemory : Fox.Core.DataElement 
+```
+
+TODO: Description
+
+## Properties
+
+| | |
+|-|-|
+| [resourceSize](#resourcesize) | TODO: Description |
+
+
+

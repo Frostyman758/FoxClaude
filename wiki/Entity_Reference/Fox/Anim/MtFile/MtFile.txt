@@ -1,0 +1,24 @@
+<!--
+title: MtFile
+permalink: /Entity_Reference/?/Fox/Anim/MtFile/
+stub: true
+tags: [Fox, Anim, Reference]
+-->
+
+## Definition
+> Project: Fox\
+> Module: [Anim](/Entity_Reference/?/Fox/Anim)\
+> Submodule: TODO: Submodule\
+> Inheritance: Fox.Anim.GaniBaseFile → MtFile
+
+```cpp
+MtFile : Fox.Anim.GaniBaseFile 
+```
+
+TODO: Description
+
+
+
+
+
+

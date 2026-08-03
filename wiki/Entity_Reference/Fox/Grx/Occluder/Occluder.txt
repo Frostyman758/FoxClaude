@@ -1,0 +1,30 @@
+<!--
+title: Occluder
+permalink: /Entity_Reference/?/Fox/Grx/Occluder/
+stub: true
+tags: [Fox, Grx, Reference]
+-->
+
+## Definition
+> Project: Fox\
+> Module: [Grx](/Entity_Reference/?/Fox/Grx)\
+> Submodule: TODO: Submodule\
+> Inheritance: Fox.Core.TransformData → Occluder
+
+```cpp
+Occluder : Fox.Core.TransformData 
+```
+
+TODO: Description
+
+## Properties
+
+| | |
+|-|-|
+| [isEnable](#isenable) | TODO: Description |
+| [basePoint0](#basepoint0) | TODO: Description |
+| [basePoint1](#basepoint1) | TODO: Description |
+| [height](#height) | TODO: Description |
+
+
+

@@ -1,0 +1,27 @@
+<!--
+title: TppHidePointData
+permalink: /Entity_Reference/?/Tpp/GameCore/TppHidePointData/
+stub: true
+tags: [Tpp, GameCore, Reference]
+-->
+
+## Definition
+> Project: Tpp\
+> Module: [GameCore](/Entity_Reference/?/Tpp/GameCore)\
+> Submodule: TODO: Submodule\
+> Inheritance: Fox.Core.TransformData → TppHidePointData
+
+```cpp
+TppHidePointData : Fox.Core.TransformData 
+```
+
+TODO: Description
+
+## Properties
+
+| | |
+|-|-|
+| [type](#type) | TODO: Description |
+
+
+

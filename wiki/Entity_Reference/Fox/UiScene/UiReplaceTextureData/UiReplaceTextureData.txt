@@ -1,0 +1,27 @@
+<!--
+title: UiReplaceTextureData
+permalink: /Entity_Reference/?/Fox/UiScene/UiReplaceTextureData/
+stub: true
+tags: [Fox, UiScene, Reference]
+-->
+
+## Definition
+> Project: Fox\
+> Module: [UiScene](/Entity_Reference/?/Fox/UiScene)\
+> Submodule: TODO: Submodule\
+> Inheritance: Fox.Core.Data → UiReplaceTextureData
+
+```cpp
+UiReplaceTextureData : Fox.Core.Data 
+```
+
+TODO: Description
+
+## Properties
+
+| | |
+|-|-|
+| [texturePath](#texturepath) | TODO: Description |
+
+
+

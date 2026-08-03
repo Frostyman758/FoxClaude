@@ -1,0 +1,24 @@
+<!--
+title: GrPluginTonemap
+permalink: /Entity_Reference/?/Fox/Gr/GrPluginTonemap/
+stub: true
+tags: [Fox, Gr, Reference]
+-->
+
+## Definition
+> Project: Fox\
+> Module: [Gr](/Entity_Reference/?/Fox/Gr)\
+> Submodule: TODO: Submodule\
+> Inheritance: Fox.Gr.GrRenderPlugin → GrPluginTonemap
+
+```cpp
+GrPluginTonemap : Fox.Gr.GrRenderPlugin 
+```
+
+TODO: Description
+
+
+
+
+
+

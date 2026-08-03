@@ -1,0 +1,24 @@
+<!--
+title: GeoGeomFile
+permalink: /Entity_Reference/?/Fox/Geo/GeoGeomFile/
+stub: true
+tags: [Fox, Geo, Reference]
+-->
+
+## Definition
+> Project: Fox\
+> Module: [Geo](/Entity_Reference/?/Fox/Geo)\
+> Submodule: TODO: Submodule\
+> Inheritance: Fox.Core.RawFile → GeoGeomFile
+
+```cpp
+GeoGeomFile : Fox.Core.RawFile 
+```
+
+TODO: Description
+
+
+
+
+
+

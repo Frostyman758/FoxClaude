@@ -1,0 +1,24 @@
+<!--
+title: TppLightProbeUtility
+permalink: /Entity_Reference/?/Tpp/Effect/TppLightProbeUtility/
+stub: true
+tags: [Tpp, Effect, Reference]
+-->
+
+## Definition
+> Project: Tpp\
+> Module: [Effect](/Entity_Reference/?/Tpp/Effect)\
+> Submodule: TODO: Submodule\
+> Inheritance: Fox.Core.Entity → TppLightProbeUtility
+
+```cpp
+TppLightProbeUtility : Fox.Core.Entity 
+```
+
+TODO: Description
+
+
+
+
+
+

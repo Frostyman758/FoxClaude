@@ -1,0 +1,24 @@
+<!--
+title: PropertyDifference
+permalink: /Entity_Reference/?/Fox/Core/PropertyDifference/
+stub: true
+tags: [Fox, Core, Reference]
+-->
+
+## Definition
+> Project: Fox\
+> Module: [Core](/Entity_Reference/?/Fox/Core)\
+> Submodule: TODO: Submodule\
+> Inheritance: Fox.Core.Entity → PropertyDifference
+
+```cpp
+PropertyDifference : Fox.Core.Entity 
+```
+
+TODO: Description
+
+
+
+
+
+

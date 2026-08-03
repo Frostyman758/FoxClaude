@@ -1,0 +1,28 @@
+<!--
+title: TppSpeechData
+permalink: /Entity_Reference/?/Tpp/GameCore/TppSpeechData/
+stub: true
+tags: [Tpp, GameCore, Reference]
+-->
+
+## Definition
+> Project: Tpp\
+> Module: [GameCore](/Entity_Reference/?/Tpp/GameCore)\
+> Submodule: TODO: Submodule\
+> Inheritance: Fox.Core.Data → TppSpeechData
+
+```cpp
+TppSpeechData : Fox.Core.Data 
+```
+
+TODO: Description
+
+## Properties
+
+| | |
+|-|-|
+| [enabled](#enabled) | TODO: Description |
+| [files](#files) | TODO: Description |
+
+
+

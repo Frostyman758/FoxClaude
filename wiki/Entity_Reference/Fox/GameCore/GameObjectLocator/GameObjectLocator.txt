@@ -1,0 +1,29 @@
+<!--
+title: GameObjectLocator
+permalink: /Entity_Reference/?/Fox/GameCore/GameObjectLocator/
+stub: true
+tags: [Fox, GameCore, Reference]
+-->
+
+## Definition
+> Project: Fox\
+> Module: [GameCore](/Entity_Reference/?/Fox/GameCore)\
+> Submodule: TODO: Submodule\
+> Inheritance: Fox.Core.TransformData → GameObjectLocator
+
+```cpp
+GameObjectLocator : Fox.Core.TransformData 
+```
+
+TODO: Description
+
+## Properties
+
+| | |
+|-|-|
+| [typeName](#typename) | TODO: Description |
+| [groupId](#groupid) | TODO: Description |
+| [parameters](#parameters) | TODO: Description |
+
+
+

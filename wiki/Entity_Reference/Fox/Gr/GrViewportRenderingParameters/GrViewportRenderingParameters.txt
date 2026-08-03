@@ -1,0 +1,27 @@
+<!--
+title: GrViewportRenderingParameters
+permalink: /Entity_Reference/?/Fox/Gr/GrViewportRenderingParameters/
+stub: true
+tags: [Fox, Gr, Reference]
+-->
+
+## Definition
+> Project: Fox\
+> Module: [Gr](/Entity_Reference/?/Fox/Gr)\
+> Submodule: TODO: Submodule\
+> Inheritance: Fox.Gr.GrViewportParameter → GrViewportRenderingParameters
+
+```cpp
+GrViewportRenderingParameters : Fox.Gr.GrViewportParameter 
+```
+
+TODO: Description
+
+## Properties
+
+| | |
+|-|-|
+| [clearColor](#clearcolor) | TODO: Description |
+
+
+

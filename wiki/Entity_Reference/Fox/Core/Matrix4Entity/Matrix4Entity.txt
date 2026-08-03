@@ -1,0 +1,27 @@
+<!--
+title: Matrix4Entity
+permalink: /Entity_Reference/?/Fox/Core/Matrix4Entity/
+stub: true
+tags: [Fox, Core, Reference]
+-->
+
+## Definition
+> Project: Fox\
+> Module: [Core](/Entity_Reference/?/Fox/Core)\
+> Submodule: TODO: Submodule\
+> Inheritance: Fox.Core.PropertyValueEntity → Matrix4Entity
+
+```cpp
+Matrix4Entity : Fox.Core.PropertyValueEntity 
+```
+
+TODO: Description
+
+## Properties
+
+| | |
+|-|-|
+| [value](#value) | TODO: Description |
+
+
+

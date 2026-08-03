@@ -1,0 +1,27 @@
+<!--
+title: Capsule
+permalink: /Entity_Reference/?/Fox/Core/Capsule/
+stub: true
+tags: [Fox, Core, Reference]
+-->
+
+## Definition
+> Project: Fox\
+> Module: [Core](/Entity_Reference/?/Fox/Core)\
+> Submodule: TODO: Submodule
+
+```cpp
+Capsule 
+```
+
+TODO: Description
+
+## Properties
+
+| | |
+|-|-|
+| [p0](#p0) | TODO: Description |
+| [p1](#p1) | TODO: Description |
+
+
+

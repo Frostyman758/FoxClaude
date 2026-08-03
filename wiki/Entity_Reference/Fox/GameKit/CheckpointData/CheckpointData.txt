@@ -1,0 +1,24 @@
+<!--
+title: CheckpointData
+permalink: /Entity_Reference/?/Fox/GameKit/CheckpointData/
+stub: true
+tags: [Fox, GameKit, Reference]
+-->
+
+## Definition
+> Project: Fox\
+> Module: [GameKit](/Entity_Reference/?/Fox/GameKit)\
+> Submodule: TODO: Submodule\
+> Inheritance: Fox.Core.Entity → CheckpointData
+
+```cpp
+CheckpointData : Fox.Core.Entity 
+```
+
+TODO: Description
+
+
+
+
+
+

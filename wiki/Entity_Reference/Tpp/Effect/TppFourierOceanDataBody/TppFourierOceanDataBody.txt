@@ -1,0 +1,24 @@
+<!--
+title: TppFourierOceanDataBody
+permalink: /Entity_Reference/?/Tpp/Effect/TppFourierOceanDataBody/
+stub: true
+tags: [Tpp, Effect, Reference]
+-->
+
+## Definition
+> Project: Tpp\
+> Module: [Effect](/Entity_Reference/?/Tpp/Effect)\
+> Submodule: TODO: Submodule\
+> Inheritance: Fox.Core.DataBody → TppFourierOceanDataBody
+
+```cpp
+TppFourierOceanDataBody : Fox.Core.DataBody 
+```
+
+TODO: Description
+
+
+
+
+
+

@@ -1,0 +1,37 @@
+<!--
+title: Bucket
+permalink: /Entity_Reference/?/Fox/Core/Bucket/
+stub: true
+tags: [Fox, Core, Reference]
+-->
+
+## Definition
+> Project: Fox\
+> Module: [Core](/Entity_Reference/?/Fox/Core)\
+> Submodule: TODO: Submodule\
+> Inheritance: Fox.Core.Entity → Bucket
+
+```cpp
+Bucket : Fox.Core.Entity 
+```
+
+TODO: Description
+
+## Properties
+
+| | |
+|-|-|
+| [collector](#collector) | TODO: Description |
+| [name](#name) | TODO: Description |
+| [sceneName](#scenename) | TODO: Description |
+| [actors](#actors) | TODO: Description |
+| [dataSetFiles](#datasetfiles) | TODO: Description |
+| [dataBodySets](#databodysets) | TODO: Description |
+| [editableDataSet](#editabledataset) | TODO: Description |
+| [editableDataSetPath](#editabledatasetpath) | TODO: Description |
+| [editableDataBodySet](#editabledatabodyset) | TODO: Description |
+| [editableDataSetChanged](#editabledatasetchanged) | TODO: Description |
+| [isEditableLocked](#iseditablelocked) | TODO: Description |
+
+
+

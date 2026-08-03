@@ -1,0 +1,24 @@
+<!--
+title: TppMarshModelPrimitiveBody
+permalink: /Entity_Reference/?/Tpp/Effect/TppMarshModelPrimitiveBody/
+stub: true
+tags: [Tpp, Effect, Reference]
+-->
+
+## Definition
+> Project: Tpp\
+> Module: [Effect](/Entity_Reference/?/Tpp/Effect)\
+> Submodule: TODO: Submodule\
+> Inheritance: Fox.Core.DataBody → TppMarshModelPrimitiveBody
+
+```cpp
+TppMarshModelPrimitiveBody : Fox.Core.DataBody 
+```
+
+TODO: Description
+
+
+
+
+
+

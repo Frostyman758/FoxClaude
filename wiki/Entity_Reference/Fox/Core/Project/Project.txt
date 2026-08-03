@@ -1,0 +1,28 @@
+<!--
+title: Project
+permalink: /Entity_Reference/?/Fox/Core/Project/
+stub: true
+tags: [Fox, Core, Reference]
+-->
+
+## Definition
+> Project: Fox\
+> Module: [Core](/Entity_Reference/?/Fox/Core)\
+> Submodule: TODO: Submodule\
+> Inheritance: Fox.Core.Entity → Project
+
+```cpp
+Project : Fox.Core.Entity 
+```
+
+TODO: Description
+
+## Properties
+
+| | |
+|-|-|
+| [dataSetPaths](#datasetpaths) | TODO: Description |
+| [currentDataSetPath](#currentdatasetpath) | TODO: Description |
+
+
+

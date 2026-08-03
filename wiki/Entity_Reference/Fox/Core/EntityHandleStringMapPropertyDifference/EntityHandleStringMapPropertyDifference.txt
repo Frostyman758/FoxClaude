@@ -1,0 +1,28 @@
+<!--
+title: EntityHandleStringMapPropertyDifference
+permalink: /Entity_Reference/?/Fox/Core/EntityHandleStringMapPropertyDifference/
+stub: true
+tags: [Fox, Core, Reference]
+-->
+
+## Definition
+> Project: Fox\
+> Module: [Core](/Entity_Reference/?/Fox/Core)\
+> Submodule: TODO: Submodule\
+> Inheritance: Fox.Core.PropertyDifference → EntityHandleStringMapPropertyDifference
+
+```cpp
+EntityHandleStringMapPropertyDifference : Fox.Core.PropertyDifference 
+```
+
+TODO: Description
+
+## Properties
+
+| | |
+|-|-|
+| [originalValues](#originalvalues) | TODO: Description |
+| [values](#values) | TODO: Description |
+
+
+

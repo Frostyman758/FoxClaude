@@ -1,0 +1,24 @@
+<!--
+title: StageLightFadeDataBody
+permalink: /Entity_Reference/?/Fox/Demox/StageLightFadeDataBody/
+stub: true
+tags: [Fox, Demox, Reference]
+-->
+
+## Definition
+> Project: Fox\
+> Module: [Demox](/Entity_Reference/?/Fox/Demox)\
+> Submodule: TODO: Submodule\
+> Inheritance: Fox.Core.DataBody → StageLightFadeDataBody
+
+```cpp
+StageLightFadeDataBody : Fox.Core.DataBody 
+```
+
+TODO: Description
+
+
+
+
+
+

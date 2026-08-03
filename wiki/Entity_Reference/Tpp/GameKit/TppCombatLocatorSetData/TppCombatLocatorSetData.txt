@@ -1,0 +1,29 @@
+<!--
+title: TppCombatLocatorSetData
+permalink: /Entity_Reference/?/Tpp/GameKit/TppCombatLocatorSetData/
+stub: true
+tags: [Tpp, GameKit, Reference]
+-->
+
+## Definition
+> Project: Tpp\
+> Module: [GameKit](/Entity_Reference/?/Tpp/GameKit)\
+> Submodule: TODO: Submodule\
+> Inheritance: Fox.Core.Data → TppCombatLocatorSetData
+
+```cpp
+TppCombatLocatorSetData : Fox.Core.Data 
+```
+
+TODO: Description
+
+## Properties
+
+| | |
+|-|-|
+| [radius](#radius) | TODO: Description |
+| [lostSearchRadius](#lostsearchradius) | TODO: Description |
+| [locators](#locators) | TODO: Description |
+
+
+

@@ -1,0 +1,24 @@
+<!--
+title: LangFile
+permalink: /Entity_Reference/?/Fox/Ui/LangFile/
+stub: true
+tags: [Fox, Ui, Reference]
+-->
+
+## Definition
+> Project: Fox\
+> Module: [Ui](/Entity_Reference/?/Fox/Ui)\
+> Submodule: TODO: Submodule\
+> Inheritance: Fox.Core.RawFile → LangFile
+
+```cpp
+LangFile : Fox.Core.RawFile 
+```
+
+TODO: Description
+
+
+
+
+
+

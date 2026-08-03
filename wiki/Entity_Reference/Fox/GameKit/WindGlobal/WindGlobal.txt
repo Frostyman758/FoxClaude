@@ -1,0 +1,24 @@
+<!--
+title: WindGlobal
+permalink: /Entity_Reference/?/Fox/GameKit/WindGlobal/
+stub: true
+tags: [Fox, GameKit, Reference]
+-->
+
+## Definition
+> Project: Fox\
+> Module: [GameKit](/Entity_Reference/?/Fox/GameKit)\
+> Submodule: TODO: Submodule\
+> Inheritance: Fox.GameKit.EnvironmentGlobal → WindGlobal
+
+```cpp
+WindGlobal : Fox.GameKit.EnvironmentGlobal 
+```
+
+TODO: Description
+
+
+
+
+
+

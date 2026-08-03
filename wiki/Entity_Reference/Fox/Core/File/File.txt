@@ -1,0 +1,27 @@
+<!--
+title: File
+permalink: /Entity_Reference/?/Fox/Core/File/
+stub: true
+tags: [Fox, Core, Reference]
+-->
+
+## Definition
+> Project: Fox\
+> Module: [Core](/Entity_Reference/?/Fox/Core)\
+> Submodule: TODO: Submodule\
+> Inheritance: Fox.Core.Entity → File
+
+```cpp
+File : Fox.Core.Entity 
+```
+
+TODO: Description
+
+## Properties
+
+| | |
+|-|-|
+| [path](#path) | TODO: Description |
+
+
+

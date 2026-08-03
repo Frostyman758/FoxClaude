@@ -1,0 +1,24 @@
+<!--
+title: TppLensFlareRootBody
+permalink: /Entity_Reference/?/Tpp/Effect/TppLensFlareRootBody/
+stub: true
+tags: [Tpp, Effect, Reference]
+-->
+
+## Definition
+> Project: Tpp\
+> Module: [Effect](/Entity_Reference/?/Tpp/Effect)\
+> Submodule: TODO: Submodule\
+> Inheritance: Fox.Core.TransformDataBody → TppLensFlareRootBody
+
+```cpp
+TppLensFlareRootBody : Fox.Core.TransformDataBody 
+```
+
+TODO: Description
+
+
+
+
+
+

@@ -1,0 +1,24 @@
+<!--
+title: RadioDataBody
+permalink: /Entity_Reference/?/Tpp/Radio/RadioDataBody/
+stub: true
+tags: [Tpp, Radio, Reference]
+-->
+
+## Definition
+> Project: Tpp\
+> Module: [Radio](/Entity_Reference/?/Tpp/Radio)\
+> Submodule: TODO: Submodule\
+> Inheritance: Fox.Core.DataBody → RadioDataBody
+
+```cpp
+RadioDataBody : Fox.Core.DataBody 
+```
+
+TODO: Description
+
+
+
+
+
+

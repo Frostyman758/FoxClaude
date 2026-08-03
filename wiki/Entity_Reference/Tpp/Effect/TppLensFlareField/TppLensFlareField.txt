@@ -1,0 +1,37 @@
+<!--
+title: TppLensFlareField
+permalink: /Entity_Reference/?/Tpp/Effect/TppLensFlareField/
+stub: true
+tags: [Tpp, Effect, Reference]
+-->
+
+## Definition
+> Project: Tpp\
+> Module: [Effect](/Entity_Reference/?/Tpp/Effect)\
+> Submodule: TODO: Submodule\
+> Inheritance: Fox.Core.Data → TppLensFlareField
+
+```cpp
+TppLensFlareField : Fox.Core.Data 
+```
+
+TODO: Description
+
+## Properties
+
+| | |
+|-|-|
+| [shapeType](#shapetype) | TODO: Description |
+| [interpType](#interptype) | TODO: Description |
+| [debugDrawFlag](#debugdrawflag) | TODO: Description |
+| [debugDrawColor](#debugdrawcolor) | TODO: Description |
+| [innerScale](#innerscale) | TODO: Description |
+| [centerScale](#centerscale) | TODO: Description |
+| [outerScale](#outerscale) | TODO: Description |
+| [innerValue](#innervalue) | TODO: Description |
+| [centerValue](#centervalue) | TODO: Description |
+| [outerValue](#outervalue) | TODO: Description |
+| [reverse](#reverse) | TODO: Description |
+
+
+

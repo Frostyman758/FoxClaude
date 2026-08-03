@@ -1,0 +1,28 @@
+<!--
+title: DemoFileProxy
+permalink: /Entity_Reference/?/Fox/Demo/DemoFileProxy/
+stub: true
+tags: [Fox, Demo, Reference]
+-->
+
+## Definition
+> Project: Fox\
+> Module: [Demo](/Entity_Reference/?/Fox/Demo)\
+> Submodule: TODO: Submodule\
+> Inheritance: Fox.Core.Data → DemoFileProxy
+
+```cpp
+DemoFileProxy : Fox.Core.Data 
+```
+
+TODO: Description
+
+## Properties
+
+| | |
+|-|-|
+| [fmdlFiles](#fmdlfiles) | TODO: Description |
+| [partsFiles](#partsfiles) | TODO: Description |
+
+
+

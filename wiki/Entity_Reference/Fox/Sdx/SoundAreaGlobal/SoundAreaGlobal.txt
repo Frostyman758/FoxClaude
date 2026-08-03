@@ -1,0 +1,28 @@
+<!--
+title: SoundAreaGlobal
+permalink: /Entity_Reference/?/Fox/Sdx/SoundAreaGlobal/
+stub: true
+tags: [Fox, Sdx, Reference]
+-->
+
+## Definition
+> Project: Fox\
+> Module: [Sdx](/Entity_Reference/?/Fox/Sdx)\
+> Submodule: TODO: Submodule\
+> Inheritance: Fox.Core.Data → SoundAreaGlobal
+
+```cpp
+SoundAreaGlobal : Fox.Core.Data 
+```
+
+TODO: Description
+
+## Properties
+
+| | |
+|-|-|
+| [parameter](#parameter) | TODO: Description |
+| [volumeRtpc](#volumertpc) | TODO: Description |
+
+
+

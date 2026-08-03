@@ -1,0 +1,28 @@
+<!--
+title: Matrix4ArrayPropertyDifference
+permalink: /Entity_Reference/?/Fox/Core/Matrix4ArrayPropertyDifference/
+stub: true
+tags: [Fox, Core, Reference]
+-->
+
+## Definition
+> Project: Fox\
+> Module: [Core](/Entity_Reference/?/Fox/Core)\
+> Submodule: TODO: Submodule\
+> Inheritance: Fox.Core.PropertyDifference → Matrix4ArrayPropertyDifference
+
+```cpp
+Matrix4ArrayPropertyDifference : Fox.Core.PropertyDifference 
+```
+
+TODO: Description
+
+## Properties
+
+| | |
+|-|-|
+| [originalValues](#originalvalues) | TODO: Description |
+| [values](#values) | TODO: Description |
+
+
+

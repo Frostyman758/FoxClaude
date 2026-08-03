@@ -1,0 +1,24 @@
+<!--
+title: TppBlastOffenseTargetData
+permalink: /Entity_Reference/?/Tpp/System/TppBlastOffenseTargetData/
+stub: true
+tags: [Tpp, System, Reference]
+-->
+
+## Definition
+> Project: Tpp\
+> Module: [System](/Entity_Reference/?/Tpp/System)\
+> Submodule: TODO: Submodule\
+> Inheritance: Tpp.System.TppOffenseTargetData → TppBlastOffenseTargetData
+
+```cpp
+TppBlastOffenseTargetData : Tpp.System.TppOffenseTargetData 
+```
+
+TODO: Description
+
+
+
+
+
+

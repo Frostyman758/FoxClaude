@@ -1,0 +1,24 @@
+<!--
+title: GrPluginLocelReflection
+permalink: /Entity_Reference/?/Fox/Gr/GrPluginLocelReflection/
+stub: true
+tags: [Fox, Gr, Reference]
+-->
+
+## Definition
+> Project: Fox\
+> Module: [Gr](/Entity_Reference/?/Fox/Gr)\
+> Submodule: TODO: Submodule\
+> Inheritance: Fox.Gr.GrRenderPlugin → GrPluginLocelReflection
+
+```cpp
+GrPluginLocelReflection : Fox.Gr.GrRenderPlugin 
+```
+
+TODO: Description
+
+
+
+
+
+

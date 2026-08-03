@@ -1,0 +1,24 @@
+<!--
+title: CollisionSkeletonCreater
+permalink: /Entity_Reference/?/Fox/Geo/CollisionSkeletonCreater/
+stub: true
+tags: [Fox, Geo, Reference]
+-->
+
+## Definition
+> Project: Fox\
+> Module: [Geo](/Entity_Reference/?/Fox/Geo)\
+> Submodule: TODO: Submodule\
+> Inheritance: Fox.Core.Entity → CollisionSkeletonCreater
+
+```cpp
+CollisionSkeletonCreater : Fox.Core.Entity 
+```
+
+TODO: Description
+
+
+
+
+
+

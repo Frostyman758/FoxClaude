@@ -1,0 +1,28 @@
+<!--
+title: FloatStringMapPropertyDifference
+permalink: /Entity_Reference/?/Fox/Core/FloatStringMapPropertyDifference/
+stub: true
+tags: [Fox, Core, Reference]
+-->
+
+## Definition
+> Project: Fox\
+> Module: [Core](/Entity_Reference/?/Fox/Core)\
+> Submodule: TODO: Submodule\
+> Inheritance: Fox.Core.PropertyDifference → FloatStringMapPropertyDifference
+
+```cpp
+FloatStringMapPropertyDifference : Fox.Core.PropertyDifference 
+```
+
+TODO: Description
+
+## Properties
+
+| | |
+|-|-|
+| [originalValues](#originalvalues) | TODO: Description |
+| [values](#values) | TODO: Description |
+
+
+

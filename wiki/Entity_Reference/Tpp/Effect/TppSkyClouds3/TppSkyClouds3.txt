@@ -1,0 +1,27 @@
+<!--
+title: TppSkyClouds3
+permalink: /Entity_Reference/?/Tpp/Effect/TppSkyClouds3/
+stub: true
+tags: [Tpp, Effect, Reference]
+-->
+
+## Definition
+> Project: Tpp\
+> Module: [Effect](/Entity_Reference/?/Tpp/Effect)\
+> Submodule: TODO: Submodule\
+> Inheritance: Fox.Core.Data → TppSkyClouds3
+
+```cpp
+TppSkyClouds3 : Fox.Core.Data 
+```
+
+TODO: Description
+
+## Properties
+
+| | |
+|-|-|
+| [param](#param) | TODO: Description |
+
+
+

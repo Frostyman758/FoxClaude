@@ -1,0 +1,24 @@
+<!--
+title: GrViewportColorCorrectionParameters
+permalink: /Entity_Reference/?/Fox/Gr/GrViewportColorCorrectionParameters/
+stub: true
+tags: [Fox, Gr, Reference]
+-->
+
+## Definition
+> Project: Fox\
+> Module: [Gr](/Entity_Reference/?/Fox/Gr)\
+> Submodule: TODO: Submodule\
+> Inheritance: Fox.Gr.GrViewportParameter → GrViewportColorCorrectionParameters
+
+```cpp
+GrViewportColorCorrectionParameters : Fox.Gr.GrViewportParameter 
+```
+
+TODO: Description
+
+
+
+
+
+

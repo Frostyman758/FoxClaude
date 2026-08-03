@@ -1,0 +1,24 @@
+<!--
+title: GraphxPathVertexInsertionInfo
+permalink: /Entity_Reference/?/Fox/Graphx/GraphxPathVertexInsertionInfo/
+stub: true
+tags: [Fox, Graphx, Reference]
+-->
+
+## Definition
+> Project: Fox\
+> Module: [Graphx](/Entity_Reference/?/Fox/Graphx)\
+> Submodule: TODO: Submodule\
+> Inheritance: Fox.Core.ComponentInsertionInfo → GraphxPathVertexInsertionInfo
+
+```cpp
+GraphxPathVertexInsertionInfo : Fox.Core.ComponentInsertionInfo 
+```
+
+TODO: Description
+
+
+
+
+
+

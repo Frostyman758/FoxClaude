@@ -1,0 +1,24 @@
+<!--
+title: TppParasite2LocatorParameter
+permalink: /Entity_Reference/?/Tpp/GameCore/TppParasite2LocatorParameter/
+stub: true
+tags: [Tpp, GameCore, Reference]
+-->
+
+## Definition
+> Project: Tpp\
+> Module: [GameCore](/Entity_Reference/?/Tpp/GameCore)\
+> Submodule: TODO: Submodule\
+> Inheritance: Fox.Core.DataElement → TppParasite2LocatorParameter
+
+```cpp
+TppParasite2LocatorParameter : Fox.Core.DataElement 
+```
+
+TODO: Description
+
+
+
+
+
+

@@ -1,0 +1,24 @@
+<!--
+title: ShapeData
+permalink: /Entity_Reference/?/Fox/Core/ShapeData/
+stub: true
+tags: [Fox, Core, Reference]
+-->
+
+## Definition
+> Project: Fox\
+> Module: [Core](/Entity_Reference/?/Fox/Core)\
+> Submodule: TODO: Submodule\
+> Inheritance: Fox.Core.TransformData → ShapeData
+
+```cpp
+ShapeData : Fox.Core.TransformData 
+```
+
+TODO: Description
+
+
+
+
+
+

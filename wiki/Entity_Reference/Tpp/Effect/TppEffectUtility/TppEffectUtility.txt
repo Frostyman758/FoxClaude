@@ -1,0 +1,24 @@
+<!--
+title: TppEffectUtility
+permalink: /Entity_Reference/?/Tpp/Effect/TppEffectUtility/
+stub: true
+tags: [Tpp, Effect, Reference]
+-->
+
+## Definition
+> Project: Tpp\
+> Module: [Effect](/Entity_Reference/?/Tpp/Effect)\
+> Submodule: TODO: Submodule\
+> Inheritance: Fox.Core.Entity → TppEffectUtility
+
+```cpp
+TppEffectUtility : Fox.Core.Entity 
+```
+
+TODO: Description
+
+
+
+
+
+

@@ -1,0 +1,16 @@
+# Built tools — outputs of the Fox_parser and FoxBrowser repos, not sources.
+# Two single-file exes at ~115 MB combined, rebuilt often, and compressed
+# binaries don't delta — tracking them would add that much to history EVERY
+# rebuild. sync.ps1 refreshes them locally; see README.md to rebuild by hand.
+Fox_parser/modbldr-tools.exe
+FoxBrowser/
+
+# Packaged release artifact
+release.zip
+
+# One-off local notes
+fix-bash-result.txt
+
+# OS cruft
+Thumbs.db
+desktop.ini

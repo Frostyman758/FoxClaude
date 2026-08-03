@@ -1,0 +1,29 @@
+<!--
+title: TppRat2Parameter
+permalink: /Entity_Reference/?/Tpp/GameCore/TppRat2Parameter/
+stub: true
+tags: [Tpp, GameCore, Reference]
+-->
+
+## Definition
+> Project: Tpp\
+> Module: [GameCore](/Entity_Reference/?/Tpp/GameCore)\
+> Submodule: TODO: Submodule\
+> Inheritance: Fox.Core.DataElement → TppRat2Parameter
+
+```cpp
+TppRat2Parameter : Fox.Core.DataElement 
+```
+
+TODO: Description
+
+## Properties
+
+| | |
+|-|-|
+| [partsFile](#partsfile) | TODO: Description |
+| [mtarFile](#mtarfile) | TODO: Description |
+| [fovaFiles](#fovafiles) | TODO: Description |
+
+
+

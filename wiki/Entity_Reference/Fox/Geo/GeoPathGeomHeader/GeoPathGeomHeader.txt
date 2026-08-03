@@ -1,0 +1,24 @@
+<!--
+title: GeoPathGeomHeader
+permalink: /Entity_Reference/?/Fox/Geo/GeoPathGeomHeader/
+stub: true
+tags: [Fox, Geo, Reference]
+-->
+
+## Definition
+> Project: Fox\
+> Module: [Geo](/Entity_Reference/?/Fox/Geo)\
+> Submodule: TODO: Submodule\
+> Inheritance: Fox.Core.Entity → GeoPathGeomHeader
+
+```cpp
+GeoPathGeomHeader : Fox.Core.Entity 
+```
+
+TODO: Description
+
+
+
+
+
+

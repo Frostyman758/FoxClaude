@@ -1,0 +1,28 @@
+<!--
+title: SimDirectionControlParam
+permalink: /Entity_Reference/?/Fox/Sim/SimDirectionControlParam/
+stub: true
+tags: [Fox, Sim, Reference]
+-->
+
+## Definition
+> Project: Fox\
+> Module: [Sim](/Entity_Reference/?/Fox/Sim)\
+> Submodule: TODO: Submodule\
+> Inheritance: Fox.Sim.SimControlParam → SimDirectionControlParam
+
+```cpp
+SimDirectionControlParam : Fox.Sim.SimControlParam 
+```
+
+TODO: Description
+
+## Properties
+
+| | |
+|-|-|
+| [refBone](#refbone) | TODO: Description |
+| [offset](#offset) | TODO: Description |
+
+
+

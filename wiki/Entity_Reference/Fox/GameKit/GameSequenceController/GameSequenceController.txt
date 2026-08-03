@@ -1,0 +1,24 @@
+<!--
+title: GameSequenceController
+permalink: /Entity_Reference/?/Fox/GameKit/GameSequenceController/
+stub: true
+tags: [Fox, GameKit, Reference]
+-->
+
+## Definition
+> Project: Fox\
+> Module: [GameKit](/Entity_Reference/?/Fox/GameKit)\
+> Submodule: TODO: Submodule\
+> Inheritance: Fox.Core.Entity → GameSequenceController
+
+```cpp
+GameSequenceController : Fox.Core.Entity 
+```
+
+TODO: Description
+
+
+
+
+
+

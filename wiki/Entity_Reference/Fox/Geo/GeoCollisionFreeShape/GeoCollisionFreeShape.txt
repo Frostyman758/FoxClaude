@@ -1,0 +1,24 @@
+<!--
+title: GeoCollisionFreeShape
+permalink: /Entity_Reference/?/Fox/Geo/GeoCollisionFreeShape/
+stub: true
+tags: [Fox, Geo, Reference]
+-->
+
+## Definition
+> Project: Fox\
+> Module: [Geo](/Entity_Reference/?/Fox/Geo)\
+> Submodule: TODO: Submodule\
+> Inheritance: Fox.Geo.CollisionObject → GeoCollisionFreeShape
+
+```cpp
+GeoCollisionFreeShape : Fox.Geo.CollisionObject 
+```
+
+TODO: Description
+
+
+
+
+
+

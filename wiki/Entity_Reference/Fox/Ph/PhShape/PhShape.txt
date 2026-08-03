@@ -1,0 +1,29 @@
+<!--
+title: PhShape
+permalink: /Entity_Reference/?/Fox/Ph/PhShape/
+stub: true
+tags: [Fox, Ph, Reference]
+-->
+
+## Definition
+> Project: Fox\
+> Module: [Ph](/Entity_Reference/?/Fox/Ph)\
+> Submodule: TODO: Submodule\
+> Inheritance: Fox.Ph.PhSubObject → PhShape
+
+```cpp
+PhShape : Fox.Ph.PhSubObject 
+```
+
+TODO: Description
+
+## Properties
+
+| | |
+|-|-|
+| [param](#param) | TODO: Description |
+| [offset](#offset) | TODO: Description |
+| [rotation](#rotation) | TODO: Description |
+
+
+

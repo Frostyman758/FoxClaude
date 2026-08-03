@@ -1,0 +1,24 @@
+<!--
+title: GrPluginSphericalHarmonics
+permalink: /Entity_Reference/?/Fox/Gr/GrPluginSphericalHarmonics/
+stub: true
+tags: [Fox, Gr, Reference]
+-->
+
+## Definition
+> Project: Fox\
+> Module: [Gr](/Entity_Reference/?/Fox/Gr)\
+> Submodule: TODO: Submodule\
+> Inheritance: Fox.Gr.GrRenderPlugin → GrPluginSphericalHarmonics
+
+```cpp
+GrPluginSphericalHarmonics : Fox.Gr.GrRenderPlugin 
+```
+
+TODO: Description
+
+
+
+
+
+

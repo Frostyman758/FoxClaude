@@ -1,0 +1,28 @@
+<!--
+title: PhxVehicleTransmission
+permalink: /Entity_Reference/?/Fox/Phx/PhxVehicleTransmission/
+stub: true
+tags: [Fox, Phx, Reference]
+-->
+
+## Definition
+> Project: Fox\
+> Module: [Phx](/Entity_Reference/?/Fox/Phx)\
+> Submodule: TODO: Submodule\
+> Inheritance: Fox.Core.Data → PhxVehicleTransmission
+
+```cpp
+PhxVehicleTransmission : Fox.Core.Data 
+```
+
+TODO: Description
+
+## Properties
+
+| | |
+|-|-|
+| [gearRatios](#gearratios) | TODO: Description |
+| [finalGearRatio](#finalgearratio) | TODO: Description |
+
+
+

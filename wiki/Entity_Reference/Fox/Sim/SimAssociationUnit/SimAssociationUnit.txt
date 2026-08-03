@@ -1,0 +1,29 @@
+<!--
+title: SimAssociationUnit
+permalink: /Entity_Reference/?/Fox/Sim/SimAssociationUnit/
+stub: true
+tags: [Fox, Sim, Reference]
+-->
+
+## Definition
+> Project: Fox\
+> Module: [Sim](/Entity_Reference/?/Fox/Sim)\
+> Submodule: TODO: Submodule\
+> Inheritance: Fox.Phx.PhxAssociationUnitElement → SimAssociationUnit
+
+```cpp
+SimAssociationUnit : Fox.Phx.PhxAssociationUnitElement 
+```
+
+TODO: Description
+
+## Properties
+
+| | |
+|-|-|
+| [param](#param) | TODO: Description |
+| [boneName](#bonename) | TODO: Description |
+| [initialized](#initialized) | TODO: Description |
+
+
+

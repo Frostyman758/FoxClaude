@@ -1,0 +1,27 @@
+<!--
+title: TppSunLightFlare
+permalink: /Entity_Reference/?/Tpp/Effect/TppSunLightFlare/
+stub: true
+tags: [Tpp, Effect, Reference]
+-->
+
+## Definition
+> Project: Tpp\
+> Module: [Effect](/Entity_Reference/?/Tpp/Effect)\
+> Submodule: TODO: Submodule\
+> Inheritance: Fox.Core.TransformData → TppSunLightFlare
+
+```cpp
+TppSunLightFlare : Fox.Core.TransformData 
+```
+
+TODO: Description
+
+## Properties
+
+| | |
+|-|-|
+| [flareName](#flarename) | TODO: Description |
+
+
+

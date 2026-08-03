@@ -1,0 +1,24 @@
+<!--
+title: TppSimpleMissionBlockControllerDataBody
+permalink: /Entity_Reference/?/Tpp/GameCore/TppSimpleMissionBlockControllerDataBody/
+stub: true
+tags: [Tpp, GameCore, Reference]
+-->
+
+## Definition
+> Project: Tpp\
+> Module: [GameCore](/Entity_Reference/?/Tpp/GameCore)\
+> Submodule: TODO: Submodule\
+> Inheritance: Fox.Core.DataBody → TppSimpleMissionBlockControllerDataBody
+
+```cpp
+TppSimpleMissionBlockControllerDataBody : Fox.Core.DataBody 
+```
+
+TODO: Description
+
+
+
+
+
+

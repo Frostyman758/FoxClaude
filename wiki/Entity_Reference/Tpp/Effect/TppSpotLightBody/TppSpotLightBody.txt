@@ -1,0 +1,27 @@
+<!--
+title: TppSpotLightBody
+permalink: /Entity_Reference/?/Tpp/Effect/TppSpotLightBody/
+stub: true
+tags: [Tpp, Effect, Reference]
+-->
+
+## Definition
+> Project: Tpp\
+> Module: [Effect](/Entity_Reference/?/Tpp/Effect)\
+> Submodule: TODO: Submodule\
+> Inheritance: Fox.Core.TransformDataBody → TppSpotLightBody
+
+```cpp
+TppSpotLightBody : Fox.Core.TransformDataBody 
+```
+
+TODO: Description
+
+## Properties
+
+| | |
+|-|-|
+| [enable](#enable) | TODO: Description |
+
+
+

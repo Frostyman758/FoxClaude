@@ -1,0 +1,30 @@
+<!--
+title: TppMotherBaseContainerLocatorParameter
+permalink: /Entity_Reference/?/Tpp/GameCore/TppMotherBaseContainerLocatorParameter/
+stub: true
+tags: [Tpp, GameCore, Reference]
+-->
+
+## Definition
+> Project: Tpp\
+> Module: [GameCore](/Entity_Reference/?/Tpp/GameCore)\
+> Submodule: TODO: Submodule\
+> Inheritance: Fox.Core.DataElement → TppMotherBaseContainerLocatorParameter
+
+```cpp
+TppMotherBaseContainerLocatorParameter : Fox.Core.DataElement 
+```
+
+TODO: Description
+
+## Properties
+
+| | |
+|-|-|
+| [containerPriority](#containerpriority) | TODO: Description |
+| [containerKind](#containerkind) | TODO: Description |
+| [containerValid](#containervalid) | TODO: Description |
+| [divisionType](#divisiontype) | TODO: Description |
+
+
+

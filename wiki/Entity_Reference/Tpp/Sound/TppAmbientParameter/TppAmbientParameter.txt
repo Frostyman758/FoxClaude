@@ -1,0 +1,31 @@
+<!--
+title: TppAmbientParameter
+permalink: /Entity_Reference/?/Tpp/Sound/TppAmbientParameter/
+stub: true
+tags: [Tpp, Sound, Reference]
+-->
+
+## Definition
+> Project: Tpp\
+> Module: [Sound](/Entity_Reference/?/Tpp/Sound)\
+> Submodule: TODO: Submodule\
+> Inheritance: Fox.Core.Data → TppAmbientParameter
+
+```cpp
+TppAmbientParameter : Fox.Core.Data 
+```
+
+TODO: Description
+
+## Properties
+
+| | |
+|-|-|
+| [ambientEvent](#ambientevent) | TODO: Description |
+| [objectRtpcName](#objectrtpcname) | TODO: Description |
+| [objectRtpcValue](#objectrtpcvalue) | TODO: Description |
+| [auxSends](#auxsends) | TODO: Description |
+| [dryVolume](#dryvolume) | TODO: Description |
+
+
+

@@ -1,0 +1,24 @@
+<!--
+title: EditableBlockPackageBase
+permalink: /Entity_Reference/?/Fox/Core/EditableBlockPackageBase/
+stub: true
+tags: [Fox, Core, Reference]
+-->
+
+## Definition
+> Project: Fox\
+> Module: [Core](/Entity_Reference/?/Fox/Core)\
+> Submodule: TODO: Submodule\
+> Inheritance: Fox.Core.Entity → EditableBlockPackageBase
+
+```cpp
+EditableBlockPackageBase : Fox.Core.Entity 
+```
+
+TODO: Description
+
+
+
+
+
+

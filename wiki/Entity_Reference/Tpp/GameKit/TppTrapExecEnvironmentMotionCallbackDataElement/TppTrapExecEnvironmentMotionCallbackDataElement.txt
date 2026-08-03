@@ -1,0 +1,30 @@
+<!--
+title: TppTrapExecEnvironmentMotionCallbackDataElement
+permalink: /Entity_Reference/?/Tpp/GameKit/TppTrapExecEnvironmentMotionCallbackDataElement/
+stub: true
+tags: [Tpp, GameKit, Reference]
+-->
+
+## Definition
+> Project: Tpp\
+> Module: [GameKit](/Entity_Reference/?/Tpp/GameKit)\
+> Submodule: TODO: Submodule\
+> Inheritance: Fox.Geo.GeoTrapModuleCallbackDataElement → TppTrapExecEnvironmentMotionCallbackDataElement
+
+```cpp
+TppTrapExecEnvironmentMotionCallbackDataElement : Fox.Geo.GeoTrapModuleCallbackDataElement 
+```
+
+TODO: Description
+
+## Properties
+
+| | |
+|-|-|
+| [targetShapes](#targetshapes) | TODO: Description |
+| [environmentType](#environmenttype) | TODO: Description |
+| [environmentTypeString](#environmenttypestring) | TODO: Description |
+| [offenseName](#offensename) | TODO: Description |
+
+
+

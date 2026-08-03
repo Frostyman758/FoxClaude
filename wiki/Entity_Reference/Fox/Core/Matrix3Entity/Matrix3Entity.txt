@@ -1,0 +1,27 @@
+<!--
+title: Matrix3Entity
+permalink: /Entity_Reference/?/Fox/Core/Matrix3Entity/
+stub: true
+tags: [Fox, Core, Reference]
+-->
+
+## Definition
+> Project: Fox\
+> Module: [Core](/Entity_Reference/?/Fox/Core)\
+> Submodule: TODO: Submodule\
+> Inheritance: Fox.Core.PropertyValueEntity → Matrix3Entity
+
+```cpp
+Matrix3Entity : Fox.Core.PropertyValueEntity 
+```
+
+TODO: Description
+
+## Properties
+
+| | |
+|-|-|
+| [value](#value) | TODO: Description |
+
+
+

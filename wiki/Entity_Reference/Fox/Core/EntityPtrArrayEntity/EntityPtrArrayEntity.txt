@@ -1,0 +1,27 @@
+<!--
+title: EntityPtrArrayEntity
+permalink: /Entity_Reference/?/Fox/Core/EntityPtrArrayEntity/
+stub: true
+tags: [Fox, Core, Reference]
+-->
+
+## Definition
+> Project: Fox\
+> Module: [Core](/Entity_Reference/?/Fox/Core)\
+> Submodule: TODO: Submodule\
+> Inheritance: Fox.Core.Entity → EntityPtrArrayEntity
+
+```cpp
+EntityPtrArrayEntity : Fox.Core.Entity 
+```
+
+TODO: Description
+
+## Properties
+
+| | |
+|-|-|
+| [array](#array) | TODO: Description |
+
+
+

@@ -1,0 +1,24 @@
+<!--
+title: ColorInfo
+permalink: /Entity_Reference/?/Fox/Geo/ColorInfo/
+stub: true
+tags: [Fox, Geo, Reference]
+-->
+
+## Definition
+> Project: Fox\
+> Module: [Geo](/Entity_Reference/?/Fox/Geo)\
+> Submodule: TODO: Submodule\
+> Inheritance: Fox.Geo.MaterialInfoBase → ColorInfo
+
+```cpp
+ColorInfo : Fox.Geo.MaterialInfoBase 
+```
+
+TODO: Description
+
+
+
+
+
+

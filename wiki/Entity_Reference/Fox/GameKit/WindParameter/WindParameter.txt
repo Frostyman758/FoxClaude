@@ -1,0 +1,34 @@
+<!--
+title: WindParameter
+permalink: /Entity_Reference/?/Fox/GameKit/WindParameter/
+stub: true
+tags: [Fox, GameKit, Reference]
+-->
+
+## Definition
+> Project: Fox\
+> Module: [GameKit](/Entity_Reference/?/Fox/GameKit)\
+> Submodule: TODO: Submodule\
+> Inheritance: Fox.GameKit.EnvironmentParameter → WindParameter
+
+```cpp
+WindParameter : Fox.GameKit.EnvironmentParameter 
+```
+
+TODO: Description
+
+## Properties
+
+| | |
+|-|-|
+| [speed](#speed) | TODO: Description |
+| [rotation](#rotation) | TODO: Description |
+| [velocity](#velocity) | TODO: Description |
+| [speedTurbulentRate](#speedturbulentrate) | TODO: Description |
+| [speedTurbulentCycle](#speedturbulentcycle) | TODO: Description |
+| [rotTurbulentRate](#rotturbulentrate) | TODO: Description |
+| [rotTurbulentCycle](#rotturbulentcycle) | TODO: Description |
+| [influenceOfGlobal](#influenceofglobal) | TODO: Description |
+
+
+

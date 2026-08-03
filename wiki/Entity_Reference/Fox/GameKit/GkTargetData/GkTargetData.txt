@@ -1,0 +1,27 @@
+<!--
+title: GkTargetData
+permalink: /Entity_Reference/?/Fox/GameKit/GkTargetData/
+stub: true
+tags: [Fox, GameKit, Reference]
+-->
+
+## Definition
+> Project: Fox\
+> Module: [GameKit](/Entity_Reference/?/Fox/GameKit)\
+> Submodule: TODO: Submodule\
+> Inheritance: Fox.Geo.TargetExtensionData → GkTargetData
+
+```cpp
+GkTargetData : Fox.Geo.TargetExtensionData 
+```
+
+TODO: Description
+
+## Properties
+
+| | |
+|-|-|
+| [characterObjectHandle](#characterobjecthandle) | TODO: Description |
+
+
+

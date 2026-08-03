@@ -1,0 +1,24 @@
+<!--
+title: GrTools
+permalink: /Entity_Reference/?/Fox/Gr/GrTools/
+stub: true
+tags: [Fox, Gr, Reference]
+-->
+
+## Definition
+> Project: Fox\
+> Module: [Gr](/Entity_Reference/?/Fox/Gr)\
+> Submodule: TODO: Submodule\
+> Inheritance: Fox.Core.Entity → GrTools
+
+```cpp
+GrTools : Fox.Core.Entity 
+```
+
+TODO: Description
+
+
+
+
+
+

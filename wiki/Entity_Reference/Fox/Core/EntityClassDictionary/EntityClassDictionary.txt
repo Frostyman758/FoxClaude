@@ -1,0 +1,24 @@
+<!--
+title: EntityClassDictionary
+permalink: /Entity_Reference/?/Fox/Core/EntityClassDictionary/
+stub: true
+tags: [Fox, Core, Reference]
+-->
+
+## Definition
+> Project: Fox\
+> Module: [Core](/Entity_Reference/?/Fox/Core)\
+> Submodule: TODO: Submodule\
+> Inheritance: Fox.Core.Entity → EntityClassDictionary
+
+```cpp
+EntityClassDictionary : Fox.Core.Entity 
+```
+
+TODO: Description
+
+
+
+
+
+

@@ -1,0 +1,29 @@
+<!--
+title: ClothDescription
+permalink: /Entity_Reference/?/Fox/PartsBuilder/ClothDescription/
+stub: true
+tags: [Fox, PartsBuilder, Reference]
+-->
+
+## Definition
+> Project: Fox\
+> Module: [PartsBuilder](/Entity_Reference/?/Fox/PartsBuilder)\
+> Submodule: TODO: Submodule\
+> Inheritance: Fox.PartsBuilder.PartDescription → ClothDescription
+
+```cpp
+ClothDescription : Fox.PartsBuilder.PartDescription 
+```
+
+TODO: Description
+
+## Properties
+
+| | |
+|-|-|
+| [clothFile](#clothfile) | TODO: Description |
+| [clothSettingFile](#clothsettingfile) | TODO: Description |
+| [clothHitFile](#clothhitfile) | TODO: Description |
+
+
+

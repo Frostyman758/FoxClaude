@@ -1,0 +1,24 @@
+<!--
+title: GrPluginCloneWireframe
+permalink: /Entity_Reference/?/Fox/Gr/GrPluginCloneWireframe/
+stub: true
+tags: [Fox, Gr, Reference]
+-->
+
+## Definition
+> Project: Fox\
+> Module: [Gr](/Entity_Reference/?/Fox/Gr)\
+> Submodule: TODO: Submodule\
+> Inheritance: Fox.Gr.GrPluginClone → GrPluginCloneWireframe
+
+```cpp
+GrPluginCloneWireframe : Fox.Gr.GrPluginClone 
+```
+
+TODO: Description
+
+
+
+
+
+

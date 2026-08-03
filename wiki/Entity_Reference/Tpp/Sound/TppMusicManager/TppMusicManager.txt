@@ -1,0 +1,24 @@
+<!--
+title: TppMusicManager
+permalink: /Entity_Reference/?/Tpp/Sound/TppMusicManager/
+stub: true
+tags: [Tpp, Sound, Reference]
+-->
+
+## Definition
+> Project: Tpp\
+> Module: [Sound](/Entity_Reference/?/Tpp/Sound)\
+> Submodule: TODO: Submodule\
+> Inheritance: Fox.Core.Entity → TppMusicManager
+
+```cpp
+TppMusicManager : Fox.Core.Entity 
+```
+
+TODO: Description
+
+
+
+
+
+

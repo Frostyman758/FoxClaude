@@ -1,0 +1,24 @@
+<!--
+title: PluginSettingsBody
+permalink: /Entity_Reference/?/Fox/Grx/PluginSettingsBody/
+stub: true
+tags: [Fox, Grx, Reference]
+-->
+
+## Definition
+> Project: Fox\
+> Module: [Grx](/Entity_Reference/?/Fox/Grx)\
+> Submodule: TODO: Submodule\
+> Inheritance: Fox.Core.DataBody → PluginSettingsBody
+
+```cpp
+PluginSettingsBody : Fox.Core.DataBody 
+```
+
+TODO: Description
+
+
+
+
+
+

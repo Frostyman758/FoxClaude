@@ -1,0 +1,24 @@
+<!--
+title: TppTrapRainFilterCallbackDataElement
+permalink: /Entity_Reference/?/Tpp/Effect/TppTrapRainFilterCallbackDataElement/
+stub: true
+tags: [Tpp, Effect, Reference]
+-->
+
+## Definition
+> Project: Tpp\
+> Module: [Effect](/Entity_Reference/?/Tpp/Effect)\
+> Submodule: TODO: Submodule\
+> Inheritance: Fox.Geo.GeoTrapModuleCallbackDataElement → TppTrapRainFilterCallbackDataElement
+
+```cpp
+TppTrapRainFilterCallbackDataElement : Fox.Geo.GeoTrapModuleCallbackDataElement 
+```
+
+TODO: Description
+
+
+
+
+
+

@@ -1,0 +1,24 @@
+<!--
+title: FxVfxFile
+permalink: /Entity_Reference/?/Fox/Fx/FxVfxFile/
+stub: true
+tags: [Fox, Fx, Reference]
+-->
+
+## Definition
+> Project: Fox\
+> Module: [Fx](/Entity_Reference/?/Fox/Fx)\
+> Submodule: TODO: Submodule\
+> Inheritance: Fox.Core.DataSetFile2 → FxVfxFile
+
+```cpp
+FxVfxFile : Fox.Core.DataSetFile2 
+```
+
+TODO: Description
+
+
+
+
+
+

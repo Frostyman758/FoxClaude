@@ -1,0 +1,33 @@
+<!--
+title: DesParamData
+permalink: /Entity_Reference/?/Fox/Des/DesParamData/
+stub: true
+tags: [Fox, Des, Reference]
+-->
+
+## Definition
+> Project: Fox\
+> Module: [Des](/Entity_Reference/?/Fox/Des)\
+> Submodule: TODO: Submodule\
+> Inheritance: Fox.Core.Data → DesParamData
+
+```cpp
+DesParamData : Fox.Core.Data 
+```
+
+TODO: Description
+
+## Properties
+
+| | |
+|-|-|
+| [density](#density) | TODO: Description |
+| [friction](#friction) | TODO: Description |
+| [restitution](#restitution) | TODO: Description |
+| [materialName](#materialname) | TODO: Description |
+| [desCondition](#descondition) | TODO: Description |
+| [desImpactPowerThreshold](#desimpactpowerthreshold) | TODO: Description |
+| [physicalCoefficient](#physicalcoefficient) | TODO: Description |
+
+
+

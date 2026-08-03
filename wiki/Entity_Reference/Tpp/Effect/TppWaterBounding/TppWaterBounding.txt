@@ -1,0 +1,29 @@
+<!--
+title: TppWaterBounding
+permalink: /Entity_Reference/?/Tpp/Effect/TppWaterBounding/
+stub: true
+tags: [Tpp, Effect, Reference]
+-->
+
+## Definition
+> Project: Tpp\
+> Module: [Effect](/Entity_Reference/?/Tpp/Effect)\
+> Submodule: TODO: Submodule\
+> Inheritance: Fox.Core.TransformData → TppWaterBounding
+
+```cpp
+TppWaterBounding : Fox.Core.TransformData 
+```
+
+TODO: Description
+
+## Properties
+
+| | |
+|-|-|
+| [enableRotate](#enablerotate) | TODO: Description |
+| [debugDraw](#debugdraw) | TODO: Description |
+| [type](#type) | TODO: Description |
+
+
+

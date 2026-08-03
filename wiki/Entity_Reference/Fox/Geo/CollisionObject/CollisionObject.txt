@@ -1,0 +1,27 @@
+<!--
+title: CollisionObject
+permalink: /Entity_Reference/?/Fox/Geo/CollisionObject/
+stub: true
+tags: [Fox, Geo, Reference]
+-->
+
+## Definition
+> Project: Fox\
+> Module: [Geo](/Entity_Reference/?/Fox/Geo)\
+> Submodule: TODO: Submodule\
+> Inheritance: Fox.Core.Entity → CollisionObject
+
+```cpp
+CollisionObject : Fox.Core.Entity 
+```
+
+TODO: Description
+
+## Properties
+
+| | |
+|-|-|
+| [ownerHandle](#ownerhandle) | TODO: Description |
+
+
+

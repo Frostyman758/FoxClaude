@@ -1,0 +1,28 @@
+<!--
+title: TppSecurityCamera2Parameter
+permalink: /Entity_Reference/?/Tpp/GameCore/TppSecurityCamera2Parameter/
+stub: true
+tags: [Tpp, GameCore, Reference]
+-->
+
+## Definition
+> Project: Tpp\
+> Module: [GameCore](/Entity_Reference/?/Tpp/GameCore)\
+> Submodule: TODO: Submodule\
+> Inheritance: Fox.Core.DataElement → TppSecurityCamera2Parameter
+
+```cpp
+TppSecurityCamera2Parameter : Fox.Core.DataElement 
+```
+
+TODO: Description
+
+## Properties
+
+| | |
+|-|-|
+| [partsFile](#partsfile) | TODO: Description |
+| [vfxFiles](#vfxfiles) | TODO: Description |
+
+
+

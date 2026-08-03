@@ -1,0 +1,27 @@
+<!--
+title: DataElement
+permalink: /Entity_Reference/?/Fox/Core/DataElement/
+stub: true
+tags: [Fox, Core, Reference]
+-->
+
+## Definition
+> Project: Fox\
+> Module: [Core](/Entity_Reference/?/Fox/Core)\
+> Submodule: TODO: Submodule\
+> Inheritance: Fox.Core.Entity → DataElement
+
+```cpp
+DataElement : Fox.Core.Entity 
+```
+
+TODO: Description
+
+## Properties
+
+| | |
+|-|-|
+| [owner](#owner) | TODO: Description |
+
+
+

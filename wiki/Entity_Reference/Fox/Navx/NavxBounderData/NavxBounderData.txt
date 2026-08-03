@@ -1,0 +1,24 @@
+<!--
+title: NavxBounderData
+permalink: /Entity_Reference/?/Fox/Navx/NavxBounderData/
+stub: true
+tags: [Fox, Navx, Reference]
+-->
+
+## Definition
+> Project: Fox\
+> Module: [Navx](/Entity_Reference/?/Fox/Navx)\
+> Submodule: TODO: Submodule\
+> Inheritance: Fox.Core.TransformData → NavxBounderData
+
+```cpp
+NavxBounderData : Fox.Core.TransformData 
+```
+
+TODO: Description
+
+
+
+
+
+

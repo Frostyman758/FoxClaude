@@ -1,0 +1,24 @@
+<!--
+title: FoxFadeIo
+permalink: /Entity_Reference/?/Fox/GameKit/FoxFadeIo/
+stub: true
+tags: [Fox, GameKit, Reference]
+-->
+
+## Definition
+> Project: Fox\
+> Module: [GameKit](/Entity_Reference/?/Fox/GameKit)\
+> Submodule: TODO: Submodule\
+> Inheritance: Fox.Core.Actor → FoxFadeIo
+
+```cpp
+FoxFadeIo : Fox.Core.Actor 
+```
+
+TODO: Description
+
+
+
+
+
+

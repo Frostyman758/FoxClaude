@@ -1,0 +1,24 @@
+<!--
+title: UiOperationNodeBody
+permalink: /Entity_Reference/?/Fox/Ui/UiOperationNodeBody/
+stub: true
+tags: [Fox, Ui, Reference]
+-->
+
+## Definition
+> Project: Fox\
+> Module: [Ui](/Entity_Reference/?/Fox/Ui)\
+> Submodule: TODO: Submodule\
+> Inheritance: Fox.Ui.UiNodeDataBody → UiOperationNodeBody
+
+```cpp
+UiOperationNodeBody : Fox.Ui.UiNodeDataBody 
+```
+
+TODO: Description
+
+
+
+
+
+

@@ -1,0 +1,31 @@
+<!--
+title: TppWeatherRainData
+permalink: /Entity_Reference/?/Tpp/Effect/TppWeatherRainData/
+stub: true
+tags: [Tpp, Effect, Reference]
+-->
+
+## Definition
+> Project: Tpp\
+> Module: [Effect](/Entity_Reference/?/Tpp/Effect)\
+> Submodule: TODO: Submodule\
+> Inheritance: Fox.Core.Data → TppWeatherRainData
+
+```cpp
+TppWeatherRainData : Fox.Core.Data 
+```
+
+TODO: Description
+
+## Properties
+
+| | |
+|-|-|
+| [rainFilter](#rainfilter) | TODO: Description |
+| [floorRainSplash](#floorrainsplash) | TODO: Description |
+| [vfxFileFallRain](#vfxfilefallrain) | TODO: Description |
+| [vfxFileFallRainSlow](#vfxfilefallrainslow) | TODO: Description |
+| [vfxFileCameraFog](#vfxfilecamerafog) | TODO: Description |
+
+
+

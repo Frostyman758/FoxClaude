@@ -1,0 +1,24 @@
+<!--
+title: DesDaemon
+permalink: /Entity_Reference/?/Fox/Des/DesDaemon/
+stub: true
+tags: [Fox, Des, Reference]
+-->
+
+## Definition
+> Project: Fox\
+> Module: [Des](/Entity_Reference/?/Fox/Des)\
+> Submodule: TODO: Submodule\
+> Inheritance: Fox.Core.Entity → DesDaemon
+
+```cpp
+DesDaemon : Fox.Core.Entity 
+```
+
+TODO: Description
+
+
+
+
+
+

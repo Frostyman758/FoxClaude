@@ -1,0 +1,29 @@
+<!--
+title: SoundSourceTrapParameter
+permalink: /Entity_Reference/?/Fox/Sdx/SoundSourceTrapParameter/
+stub: true
+tags: [Fox, Sdx, Reference]
+-->
+
+## Definition
+> Project: Fox\
+> Module: [Sdx](/Entity_Reference/?/Fox/Sdx)\
+> Submodule: TODO: Submodule\
+> Inheritance: Fox.Geo.GeoTrapModuleCallbackDataElement → SoundSourceTrapParameter
+
+```cpp
+SoundSourceTrapParameter : Fox.Geo.GeoTrapModuleCallbackDataElement 
+```
+
+TODO: Description
+
+## Properties
+
+| | |
+|-|-|
+| [source](#source) | TODO: Description |
+| [enterEvent](#enterevent) | TODO: Description |
+| [outEvent](#outevent) | TODO: Description |
+
+
+

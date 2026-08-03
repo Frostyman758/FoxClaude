@@ -1,0 +1,24 @@
+<!--
+title: TppEyelidFilterDataBody
+permalink: /Entity_Reference/?/Tpp/Effect/TppEyelidFilterDataBody/
+stub: true
+tags: [Tpp, Effect, Reference]
+-->
+
+## Definition
+> Project: Tpp\
+> Module: [Effect](/Entity_Reference/?/Tpp/Effect)\
+> Submodule: TODO: Submodule\
+> Inheritance: Fox.Core.DataBody → TppEyelidFilterDataBody
+
+```cpp
+TppEyelidFilterDataBody : Fox.Core.DataBody 
+```
+
+TODO: Description
+
+
+
+
+
+

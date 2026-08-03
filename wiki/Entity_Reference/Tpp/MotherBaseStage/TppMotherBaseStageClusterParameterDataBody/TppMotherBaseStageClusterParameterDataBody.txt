@@ -1,0 +1,24 @@
+<!--
+title: TppMotherBaseStageClusterParameterDataBody
+permalink: /Entity_Reference/?/Tpp/MotherBaseStage/TppMotherBaseStageClusterParameterDataBody/
+stub: true
+tags: [Tpp, MotherBaseStage, Reference]
+-->
+
+## Definition
+> Project: Tpp\
+> Module: [MotherBaseStage](/Entity_Reference/?/Tpp/MotherBaseStage)\
+> Submodule: TODO: Submodule\
+> Inheritance: Fox.Core.DataBody → TppMotherBaseStageClusterParameterDataBody
+
+```cpp
+TppMotherBaseStageClusterParameterDataBody : Fox.Core.DataBody 
+```
+
+TODO: Description
+
+
+
+
+
+

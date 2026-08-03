@@ -1,0 +1,24 @@
+<!--
+title: SyncUniqueId
+permalink: /Entity_Reference/?/Fox/Nt/SyncUniqueId/
+stub: true
+tags: [Fox, Nt, Reference]
+-->
+
+## Definition
+> Project: Fox\
+> Module: [Nt](/Entity_Reference/?/Fox/Nt)\
+> Submodule: TODO: Submodule\
+> Inheritance: Fox.Core.Entity → SyncUniqueId
+
+```cpp
+SyncUniqueId : Fox.Core.Entity 
+```
+
+TODO: Description
+
+
+
+
+
+

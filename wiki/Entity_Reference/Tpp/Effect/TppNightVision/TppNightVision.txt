@@ -1,0 +1,27 @@
+<!--
+title: TppNightVision
+permalink: /Entity_Reference/?/Tpp/Effect/TppNightVision/
+stub: true
+tags: [Tpp, Effect, Reference]
+-->
+
+## Definition
+> Project: Tpp\
+> Module: [Effect](/Entity_Reference/?/Tpp/Effect)\
+> Submodule: TODO: Submodule\
+> Inheritance: Fox.Core.Data → TppNightVision
+
+```cpp
+TppNightVision : Fox.Core.Data 
+```
+
+TODO: Description
+
+## Properties
+
+| | |
+|-|-|
+| [param](#param) | TODO: Description |
+
+
+

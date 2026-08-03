@@ -1,0 +1,28 @@
+<!--
+title: DemoModelDataNode
+permalink: /Entity_Reference/?/Fox/Demo/DemoModelDataNode/
+stub: true
+tags: [Fox, Demo, Reference]
+-->
+
+## Definition
+> Project: Fox\
+> Module: [Demo](/Entity_Reference/?/Fox/Demo)\
+> Submodule: TODO: Submodule\
+> Inheritance: Fox.Core.Data → DemoModelDataNode
+
+```cpp
+DemoModelDataNode : Fox.Core.Data 
+```
+
+TODO: Description
+
+## Properties
+
+| | |
+|-|-|
+| [partNames](#partnames) | TODO: Description |
+| [target](#target) | TODO: Description |
+
+
+

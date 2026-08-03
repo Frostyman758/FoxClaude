@@ -1,0 +1,24 @@
+<!--
+title: TppInGameDemoParameter
+permalink: /Entity_Reference/?/Fox/EdDemo/TppInGameDemoParameter/
+stub: true
+tags: [Fox, EdDemo, Reference]
+-->
+
+## Definition
+> Project: Fox\
+> Module: [EdDemo](/Entity_Reference/?/Fox/EdDemo)\
+> Submodule: TODO: Submodule\
+> Inheritance: Fox.Demo.DemoParameter → TppInGameDemoParameter
+
+```cpp
+TppInGameDemoParameter : Fox.Demo.DemoParameter 
+```
+
+TODO: Description
+
+
+
+
+
+
