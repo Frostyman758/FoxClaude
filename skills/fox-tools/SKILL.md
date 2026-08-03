@@ -114,6 +114,29 @@ FoxBrowser ls     [<chain-path>] [-root <dir>]
   `-root` to a specific dat when you can.
 - 010 binary templates for Fox formats: `C:\rsearch\FoxClaude\FoxBrowser\BT\*.bt`.
 
+## index / search — the archive by GAME path
+
+```
+modbldr-tools index  <archive.dat|.g0s> [substring]   tree of game paths
+modbldr-tools search <archive.dat|.g0s> <pattern>     find files (* ? globs)
+```
+
+Packs are FLATTENED AWAY: a model inside `plparts_*.fpk` appears where the game
+looks for it, with the owning container noted on the right. Output is a folder
+tree; single-child chains collapse (`Assets/tpp/chara/sna/`) because Fox paths are
+deep and narrow.
+
+Reads container INDEXES only — chunk0 is 21,842 entries across 2,787 containers
+for ~2.4 MB, instead of decoding every pack. Works on TPP `.dat` and GZ `.g0s`.
+
+```
+modbldr-tools search chunk0.dat "*sna2_main0_def.fmdl"
+└─ Assets/tpp/chara/sna/Scenes/
+   └─ sna2_main0_def.fmdl  (633,632)   ← mis_com_snake_gz.fpk
+```
+
+**This is the fastest way to answer "where does X live".** Then `stream` it.
+
 ## stream — pull ONE file out, no unpack
 
 ```
@@ -127,7 +150,8 @@ through a nested pack:
 `"…/ui_prefab_list.fpk/Assets/fox/ui/prefab/GraphAsset/list/list.uigb"`.
 `--list` resolves names through the dictionaries (QAR entries store a hash, not
 a name). `--game` searches a whole install and reads the copy the game loads
-(patch archives override base).
+(patch archives override base). `--virtual <gamePath>` reads by GAME path without
+you knowing which pack holds it — pair it with `index`/`search` above.
 
 Use this instead of unpacking a 1.5 GB archive to get one file. For search
 across the install FoxBrowser is still the better tool; `stream` is the
