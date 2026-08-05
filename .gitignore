@@ -5,8 +5,8 @@
 Fox_parser/modbldr-tools.exe
 FoxBrowser/
 
-# Packaged release artifact
-release.zip
+# Packaged release artifacts — one per repo, uploaded by hand
+*.zip
 
 # One-off local notes
 fix-bash-result.txt

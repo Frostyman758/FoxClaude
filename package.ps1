@@ -1,45 +1,37 @@
-# Zip the built tools into a release artifact
+# Zip the built tools into per-repo release artifacts
 # 04/08/2026
 #
-#   pwsh -File package.ps1                 # release.zip with both tools
+#   pwsh -File package.ps1                 # one zip per tool, for its own repo's release
 #   pwsh -File package.ps1 -Only parser    # just modbldr-tools
 #   pwsh -File package.ps1 -Only browser   # just FoxBrowser
 #
-# Takes what sync.ps1 already built — it never builds anything itself, so a stale
-# run packages stale binaries. Run sync.ps1 first.
+# One zip PER TOOL, because they are uploaded to separate repos. Takes what
+# sync.ps1 already built — it never builds anything itself, so a stale run
+# packages stale binaries. Run sync.ps1 first.
 param(
     [ValidateSet('both', 'parser', 'browser')][string]$Only = 'both',
-    [string]$Out
+    [string]$OutDir
 )
 $ErrorActionPreference = 'Stop'
 $root = $PSScriptRoot
-$Out = if ($Out) { $Out } else { Join-Path $root 'release.zip' }
+$OutDir = if ($OutDir) { $OutDir } else { $root }
 
-$parts = @()
-if ($Only -in 'both', 'parser') { $parts += 'Fox_parser' }
-if ($Only -in 'both', 'browser') { $parts += 'FoxBrowser' }
+# folder under FoxClaude -> zip name (the repo it belongs to)
+$tools = @(
+    @{ Key = 'parser';  Dir = 'Fox_parser';  Zip = 'Fox_Parser-tools.zip' }
+    @{ Key = 'browser'; Dir = 'FoxBrowser';  Zip = 'FoxBrowser.zip' }
+)
 
-foreach ($p in $parts) {
-    $dir = Join-Path $root $p
-    if (-not (Test-Path $dir)) { throw "$p is not built — run sync.ps1 first" }
+foreach ($t in $tools) {
+    if ($Only -ne 'both' -and $Only -ne $t.Key) { continue }
+    $src = Join-Path $root $t.Dir
+    if (-not (Test-Path $src)) { throw "$($t.Dir) is not built — run sync.ps1 first" }
+
+    $out = Join-Path $OutDir $t.Zip
+    if (Test-Path $out) { Remove-Item $out -Force }
+    Compress-Archive -Path (Join-Path $src '*') -DestinationPath $out -CompressionLevel Optimal
+
+    $mb = (Get-Item $out).Length / 1MB
+    $raw = (Get-ChildItem $src -Recurse -File | Measure-Object -Property Length -Sum).Sum / 1MB
+    Write-Host ("{0,-24} {1,6:N1} MB  (from {2:N1} MB, {3:N0}% saved)" -f $t.Zip, $mb, $raw, (100 - $mb / $raw * 100))
 }
-
-# Stage rather than zipping in place: the dict folders are shared by name and a
-# flat archive would collide them.
-$stage = Join-Path ([IO.Path]::GetTempPath()) ("foxclaude_pkg_" + [guid]::NewGuid().ToString('N').Substring(0, 8))
-New-Item -ItemType Directory -Force $stage | Out-Null
-try {
-    foreach ($p in $parts) {
-        Copy-Item (Join-Path $root $p) (Join-Path $stage $p) -Recurse -Force
-    }
-    Copy-Item (Join-Path $root 'README.md') $stage -Force -ErrorAction SilentlyContinue
-
-    if (Test-Path $Out) { Remove-Item $Out -Force }
-    Compress-Archive -Path (Join-Path $stage '*') -DestinationPath $Out -CompressionLevel Optimal
-
-    $mb = (Get-Item $Out).Length / 1MB
-    $raw = (Get-ChildItem $stage -Recurse -File | Measure-Object -Property Length -Sum).Sum / 1MB
-    Write-Host ("{0}  {1:N1} MB  (from {2:N1} MB, {3:N0}% saved)" -f `
-        (Split-Path $Out -Leaf), $mb, $raw, (100 - $mb / $raw * 100))
-}
-finally { Remove-Item $stage -Recurse -Force -ErrorAction SilentlyContinue }
